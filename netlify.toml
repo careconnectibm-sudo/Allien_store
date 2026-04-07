@@ -1,0 +1,12 @@
+[build]
+  command = "npm run build"
+  publish = "dist/allien-store/browser"
+
+[[plugins]]
+  package = "@netlify/angular-runtime"
+
+[[redirects]]
+  from = "/api/inrdeals/*"
+  to = "https://inrdeals.com/fetch/:splat"
+  status = 200
+  force = true

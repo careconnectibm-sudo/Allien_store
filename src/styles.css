@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  /* Brand Identity & Design System from CLAUDE.md */
+  --color-brand-blue: #2E9BD6;
+  --color-brand-blue-dark: #1A78B0;
+  --color-brand-blue-light: #E8F5FB;
+  --color-brand-blue-mid: #B3DDF2;
+  --color-brand-slate: #4A5568;
+  --color-brand-slate-dark: #2D3748;
+  --color-brand-slate-light: #EDF2F7;
+  --color-brand-purple: #6B46C1;
+  --color-brand-purple-light: #EDE9FE;
+  --color-brand-white: #FFFFFF;
+  --color-brand-off: #F7FAFC;
+  --color-brand-border: #E2E8F0;
+  --color-brand-muted: #718096;
+
+  /* Typography */
+  --font-heading: "Rajdhani", sans-serif;
+  --font-body: "Nunito", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply font-body bg-brand-off text-brand-slate-dark;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading font-semibold;
+  }
+}

@@ -1,0 +1,4144 @@
+{
+    "stores": [
+        {
+            "id": 1,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.amazon.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/341759/amazon-.in-logo-400-x-200.png",
+            "merchant": "Amazon India",
+            "category": "Automobiles,Baby & Kids,Books,Electronics,Fashion,Food & Grocery,Gifting & Toys,Health & Beauty,Home & Kitchen,Jewelery,Pets,Sports & Fitness,Others",
+            "type": "cps",
+            "payout": "12%",
+            "status": "active"
+        },
+        {
+            "id": 2,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.1mg.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/335153/1mg-logo-400x200-png.png",
+            "merchant": "1mg",
+            "category": "Health & Beauty,Medical & Healthcare",
+            "type": "cpa",
+            "payout": "₹250",
+            "status": "inactive"
+        },
+        {
+            "id": 7,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.adidas.co.in%2Foriginals&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393769/adidas--400x200-png.png",
+            "merchant": "Adidas",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "13%",
+            "status": "active"
+        },
+        {
+            "id": 8,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.agoda.com%2Faffiliate&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/341763/agoda-logo-400-x-200.png",
+            "merchant": "Agoda",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "4%",
+            "status": "inactive"
+        },
+        {
+            "id": 9,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl_lead&url=https%3A%2F%2Fwww.airtelpayments.bank.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/63/c245b72e-e5eb-495a-acbf-6e314421c4fa.jpg",
+            "merchant": "Airtel Payment Bank",
+            "category": "Recharge",
+            "type": "cpl_lead",
+            "payout": "₹200",
+            "status": "active"
+        },
+        {
+            "id": 10,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.ajio.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/418611/Ajio_400x200_logo-png.png",
+            "merchant": "Ajio",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "13%",
+            "status": "active"
+        },
+        {
+            "id": 24,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.biba.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/341644/biba--logo-400-x-200.png",
+            "merchant": "Biba",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "10%",
+            "status": "active"
+        },
+        {
+            "id": 33,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.cleartrip.com%2Fflights&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393913/cleartrip-logo.png",
+            "merchant": "Cleartrip",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "₹360",
+            "status": "active"
+        },
+        {
+            "id": 34,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.clovia.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/341645/clovia-logo-400-x-200.png",
+            "merchant": "Clovia",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "13.5%",
+            "status": "inactive"
+        },
+        {
+            "id": 39,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.crocs.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328923/crocs-400x200-png.png",
+            "merchant": "Crocs",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "8.5%",
+            "status": "active"
+        },
+        {
+            "id": 44,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.cibil.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/521577/OIP.jpeg",
+            "merchant": "Cibil Score",
+            "category": "Others",
+            "type": "cpl",
+            "payout": "₹35",
+            "status": "inactive"
+        },
+        {
+            "id": 63,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.firstcry.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394588/first-cry-logo.png",
+            "merchant": "Firstcry",
+            "category": "Baby & Kids",
+            "type": "cps",
+            "payout": "₹40",
+            "status": "active"
+        },
+        {
+            "id": 67,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.floweraura.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394169/flower-aura-logo.png",
+            "merchant": "Floweraura",
+            "category": "Gifting & Toys",
+            "type": "cps",
+            "payout": "13.5%",
+            "status": "active"
+        },
+        {
+            "id": 73,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.forestessentialsindia.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328954/forest-essen-400x200-png.png",
+            "merchant": "Forest Essentials",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "21%",
+            "status": "active"
+        },
+        {
+            "id": 84,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.zivame.com%2Fsales.html&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/329390/zivame--400x200-png.png",
+            "merchant": "Zivame",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "13%",
+            "status": "inactive"
+        },
+        {
+            "id": 86,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.godaddy.com%2Fen-in%2Foffers%2Fgeneric%2F30off&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328854/godaddy-logo-400x200-png.png",
+            "merchant": "Godaddy",
+            "category": "Domain & Hosting",
+            "type": "cps",
+            "payout": "7%",
+            "status": "active"
+        },
+        {
+            "id": 95,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Felementor.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/508613/a.png",
+            "merchant": "Elementor",
+            "category": "Domain & Hosting",
+            "type": "cps",
+            "payout": "35%",
+            "status": "active"
+        },
+        {
+            "id": 110,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.igp.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/413344/igp-logo-revamp.png",
+            "merchant": "Indian Gifts Portal",
+            "category": "Gifting & Toys",
+            "type": "cps",
+            "payout": "9.01%",
+            "status": "active"
+        },
+        {
+            "id": 111,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpr&url=https%3A%2F%2Fwww.getrushapp.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328310/6iOKipHoUbyVwKQxjR0NseTEDTD57Jd0TEiky-6idCg-OuUobkR9tnmxH-wN55Qgrr0h%3Dw1024-h500",
+            "merchant": "Rush By Hike",
+            "category": "Gaming",
+            "type": "cpr",
+            "payout": "₹30",
+            "status": "inactive"
+        },
+        {
+            "id": 113,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.industrybuying.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/119133/cb9bb241d3726a219f0e719bafb4ebda.png",
+            "merchant": "Industrybuying",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "9.10%",
+            "status": "inactive"
+        },
+        {
+            "id": 122,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.wonderchef.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/468742/Wonderchef_logo.png",
+            "merchant": "Wonderchef",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "14%",
+            "status": "active"
+        },
+        {
+            "id": 128,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fonline.kfc.co.in%2Fmenu&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328850/kfc-logo-400x200-png.png",
+            "merchant": "KFC Delivery",
+            "category": "Food & Grocery",
+            "type": "cps",
+            "payout": "₹45",
+            "status": "inactive"
+        },
+        {
+            "id": 130,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fcards.kotak.com%2Fcard-details%3FproductLogo%3D785%26channelCode%3DSF96%26feeCode%3D111&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/475961/images.jpeg",
+            "merchant": "Kotak Credit Card",
+            "category": "Banking & Finance,Banking & Finance",
+            "type": "cpa",
+            "payout": "₹1520",
+            "status": "inactive"
+        },
+        {
+            "id": 142,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.bharatloan.com%2Fapply-now&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/464016/brand_logo.png",
+            "merchant": "Bharat Loan",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹30",
+            "status": "active"
+        },
+        {
+            "id": 153,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.themancompany.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/329368/man-company---400x200-png.png",
+            "merchant": "TheManCompany",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "18%",
+            "status": "active"
+        },
+        {
+            "id": 163,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fgroww.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/480825/images.jpeg",
+            "merchant": "Groww App",
+            "category": "Banking & Finance,Online Services",
+            "type": "cpa",
+            "payout": "₹200",
+            "status": "inactive"
+        },
+        {
+            "id": 167,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.swiggy.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328654/swiggy--logo-400x200-png.png",
+            "merchant": "Swiggy",
+            "category": "Food & Grocery",
+            "type": "cps",
+            "payout": "₹40",
+            "status": "inactive"
+        },
+        {
+            "id": 173,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.makemytrip.com%2Fflights&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/395192/make-my-trip-logo.png",
+            "merchant": "Makemytrip(Domestic Flights)",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "₹130",
+            "status": "inactive"
+        },
+        {
+            "id": 178,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.snapdeal.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398854/snapdeal-400x200-logo.png",
+            "merchant": "Snapdeal",
+            "category": "Baby & Kids,Books,Electronics,Fashion,Health & Beauty,Home & Kitchen,Jewelery,Pets,Sports & Fitness",
+            "type": "cps",
+            "payout": "9.8%",
+            "status": "inactive"
+        },
+        {
+            "id": 179,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.mi.com%2Fin%2Fproduct%2Fxiaomi-14-civi&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/226/287542ad-b271-4b7d-b2fe-17c86ef3ef09.png",
+            "merchant": "Xiaomi",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "5.6%",
+            "status": "inactive"
+        },
+        {
+            "id": 180,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.mobikwik.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/39640/MobiKwik-Logo.png",
+            "merchant": "Mobikwik Recharge",
+            "category": "Online Services",
+            "type": "cps",
+            "payout": "6.38%",
+            "status": "inactive"
+        },
+        {
+            "id": 186,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.myflowerapp.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/397939/my-flower-logo.png",
+            "merchant": "MyFlowerApp",
+            "category": "Gifting & Toys",
+            "type": "cps",
+            "payout": "30.43%",
+            "status": "inactive"
+        },
+        {
+            "id": 193,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.myntra.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328661/myntra--logo-400x200--png.png",
+            "merchant": "Myntra",
+            "category": "Fashion & Apparels",
+            "type": "cps",
+            "payout": "9%",
+            "status": "active"
+        },
+        {
+            "id": 196,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.naaptol.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/67587/9k%3D",
+            "merchant": "Naaptol",
+            "category": "Electronics,Fashion & Apparels,Flowers & Gifts,Home & Kitchen,Jewellery",
+            "type": "cps",
+            "payout": "₹85",
+            "status": "inactive"
+        },
+        {
+            "id": 206,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.nykaa.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/395770/Nykaa-logo.png",
+            "merchant": "Nykaa Beauty",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "6.80%",
+            "status": "active"
+        },
+        {
+            "id": 211,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpr&url=https%3A%2F%2Fwww.rupee112.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/509491/h.jpg",
+            "merchant": "Rupee 112",
+            "category": "Banking & Finance",
+            "type": "cpr",
+            "payout": "₹50",
+            "status": "active"
+        },
+        {
+            "id": 212,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Frupeeq.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/539668/logo.png",
+            "merchant": "Rupeeq",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹65",
+            "status": "active"
+        },
+        {
+            "id": 219,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.moneycontrolpay.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/513472/OIP.jpeg",
+            "merchant": "Money Control PL",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹190",
+            "status": "active"
+        },
+        {
+            "id": 221,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.adityabirlacapital.com%2Fcampaign%2Fmotor-insurance&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/510275/IMG_0348.jpeg",
+            "merchant": "Aditya Birla Car Insurance",
+            "category": "Automobiles",
+            "type": "cps",
+            "payout": "57%",
+            "status": "inactive"
+        },
+        {
+            "id": 231,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.pepperfry.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/395273/pepperfry-logo-400x200.png",
+            "merchant": "Pepperfry",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "4.90%",
+            "status": "active"
+        },
+        {
+            "id": 247,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.fnp.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/341665/FERNSPETALS-logo-400-x-200.png",
+            "merchant": "Ferns N Petals",
+            "category": "Flowers & Gifts",
+            "type": "cps",
+            "payout": "9%",
+            "status": "inactive"
+        },
+        {
+            "id": 248,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.shoppersstop.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/32230/SHOPPERS%20STOP.png",
+            "merchant": "Shoppers Stop",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "20%",
+            "status": "inactive"
+        },
+        {
+            "id": 251,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.tatacliq.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398890/tata-cliq-logo-2-.png",
+            "merchant": "TataCliq",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "4.25%",
+            "status": "active"
+        },
+        {
+            "id": 253,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.bigrock.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393842/Big-rock_400x200_logo.png",
+            "merchant": "Bigrock",
+            "category": "Domain & Hosting",
+            "type": "cps",
+            "payout": "₹1000",
+            "status": "active"
+        },
+        {
+            "id": 267,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.titan.co.in%2Fshop%2Foffers&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/388917/Titan-logo.png",
+            "merchant": "Titan",
+            "category": "Electronics,Fashion",
+            "type": "cps",
+            "payout": "9%",
+            "status": "inactive"
+        },
+        {
+            "id": 276,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fm.aliexpress.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/537613/624x160.png",
+            "merchant": "AliExpress",
+            "category": "Electronics,Fashion",
+            "type": "cps",
+            "payout": "7.2%",
+            "status": "inactive"
+        },
+        {
+            "id": 278,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.uber.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/67596/ku%2BACnHIYCC6mEmAAAAAElFTkSuQmCC",
+            "merchant": "Uber",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "₹150",
+            "status": "active"
+        },
+        {
+            "id": 280,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.healthkart.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/341781/Healthkart-logo-400-x-200.png",
+            "merchant": "Healthkart",
+            "category": "Sports & Fitness",
+            "type": "cps",
+            "payout": "6.8%",
+            "status": "active"
+        },
+        {
+            "id": 297,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.olacabs.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/67590/2Q%3D%3D",
+            "merchant": "Ola",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "5%",
+            "status": "inactive"
+        },
+        {
+            "id": 298,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.zomato.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/418990/zomato-logo.png",
+            "merchant": "Zomato",
+            "category": "Food & Grocery",
+            "type": "cpa",
+            "payout": "₹70",
+            "status": "inactive"
+        },
+        {
+            "id": 301,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.nnnow.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/395281/nnnow-logo.png",
+            "merchant": "Nnnow",
+            "category": "Fashion,Health & Beauty",
+            "type": "cps",
+            "payout": "₹200",
+            "status": "inactive"
+        },
+        {
+            "id": 305,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpr&url=https%3A%2F%2Fwww.payrupikloan.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/512113/unnamed.png",
+            "merchant": "PayRupik App",
+            "category": "Banking & Finance",
+            "type": "cpr",
+            "payout": "₹20",
+            "status": "active"
+        },
+        {
+            "id": 312,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.bata.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/170606/logo.png",
+            "merchant": "Bata",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "13%",
+            "status": "inactive"
+        },
+        {
+            "id": 316,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.croma.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/406052/croma_logo.png",
+            "merchant": "Croma",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "4%",
+            "status": "active"
+        },
+        {
+            "id": 318,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.nike.com%2Fin%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/395283/nike_400x200_logo.png",
+            "merchant": "Nike",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "0.78%",
+            "status": "inactive"
+        },
+        {
+            "id": 328,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.yatra.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/391294/yatra--logo.png",
+            "merchant": "Yatra (Hotel and Flights)",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "₹160",
+            "status": "active"
+        },
+        {
+            "id": 338,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.bewakoof.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/5285/7ad2a573-604e-443d-b8dd-1a7594ed4855.png",
+            "merchant": "Bewakoof",
+            "category": "Fashion & Apparels",
+            "type": "cps",
+            "payout": "18.7% ",
+            "status": "active"
+        },
+        {
+            "id": 340,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.dell.com%2Fen-in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394058/400x200-Dell-logo.png",
+            "merchant": "Dell",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "9%",
+            "status": "inactive"
+        },
+        {
+            "id": 342,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fpaytmmall.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/5367/f8f286d4-be2a-4940-8eda-0007b16f48a8.jpeg",
+            "merchant": "Paytm Mall ",
+            "category": "Electronics,Fashion & Apparels,Home & Kitchen,Recharge",
+            "type": "cps",
+            "payout": "20%",
+            "status": "inactive"
+        },
+        {
+            "id": 351,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.lenovo.com%2Fin%2Fen%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/395298/lenovo-logo.png",
+            "merchant": "Lenovo",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "3.2%",
+            "status": "active"
+        },
+        {
+            "id": 356,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=http%3A%2F%2Fdunkinindia.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328852/dunkin-logo-400x200-png.png",
+            "merchant": "Dunkin Donuts",
+            "category": "Food & Grocery",
+            "type": "cps",
+            "payout": "₹360",
+            "status": "inactive"
+        },
+        {
+            "id": 357,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.moglix.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/395300/moglix-logo.png",
+            "merchant": "Moglix",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "5.4%",
+            "status": "active"
+        },
+        {
+            "id": 366,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fcodecanyon.net&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393915/codecanyon-logo.png",
+            "merchant": "CodeCanyon",
+            "category": "Online Services",
+            "type": "cps",
+            "payout": "15%",
+            "status": "inactive"
+        },
+        {
+            "id": 373,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.jockey.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328524/jockey-400x200-png.png",
+            "merchant": "Jockey",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "15%",
+            "status": "active"
+        },
+        {
+            "id": 375,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.clarks.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393898/Clarks-LOGO.png",
+            "merchant": "Clarks",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "8.5%",
+            "status": "inactive"
+        },
+        {
+            "id": 383,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fhimalayawellness.in%2Fpages%2Fsearch-results-page&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394974/Hidesign-logo.png",
+            "merchant": "Himalaya SkinCare",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "28%",
+            "status": "inactive"
+        },
+        {
+            "id": 392,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.apollopharmacy.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398634/download-%2890%29.png",
+            "merchant": "Apollo Pharmacy",
+            "category": "Medical & Healthcare",
+            "type": "cps",
+            "payout": "₹210",
+            "status": "inactive"
+        },
+        {
+            "id": 407,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.oneplus.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398583/1-plus.png",
+            "merchant": "OnePlus",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "0.85%",
+            "status": "active"
+        },
+        {
+            "id": 419,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fapp.appsflyer.com%2Fcom.kreditbee.android&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/503153/images.png",
+            "merchant": "Kreditbee",
+            "category": "",
+            "type": "cpa",
+            "payout": "7%",
+            "status": "inactive"
+        },
+        {
+            "id": 430,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.irctc.co.in%2Fnget%2Ftrain-search&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/5970/7704a2dc-6feb-445a-a519-0ec4c1f310d4.jpg",
+            "merchant": "IRCTC",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "4%",
+            "status": "inactive"
+        },
+        {
+            "id": 431,
+            "url": "https://inr.deals/track?src=stores-api&campaign=hotel&url=https%3A%2F%2Fwww.makemytrip.com%2Fhotels%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/395191/make-my-trip-logo.png",
+            "merchant": "Makemytrip (Domestic Hotels)",
+            "category": "Travel",
+            "type": "hotel",
+            "payout": "₹180",
+            "status": "active"
+        },
+        {
+            "id": 432,
+            "url": "https://inr.deals/track?src=stores-api&campaign=internationl_flight&url=https%3A%2F%2Fwww.makemytrip.com%2Finternational-flights%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/459966/make-my-trip-logo.png",
+            "merchant": "Makemytrip(Int Flight)",
+            "category": "Travel",
+            "type": "internationl_flight",
+            "payout": "₹200",
+            "status": "inactive"
+        },
+        {
+            "id": 435,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fin.jbl.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/341815/jbl--logo-400-x-200.png",
+            "merchant": "JBL",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "12%",
+            "status": "active"
+        },
+        {
+            "id": 440,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.udemy.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/395793/udemy-logo.png",
+            "merchant": "Udemy",
+            "category": "Education",
+            "type": "cps",
+            "payout": "9.75%",
+            "status": "active"
+        },
+        {
+            "id": 447,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fstore.acer.com%2Fen-in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393758/acer-logo.png",
+            "merchant": "Acer",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "3.50%",
+            "status": "active"
+        },
+        {
+            "id": 451,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.asus.com%2Fin%2Fstore%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/6047/asus.jpg",
+            "merchant": "Asus",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "2.56%",
+            "status": "active"
+        },
+        {
+            "id": 452,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fblackberrys.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/389718/Blackberrys-logo.png",
+            "merchant": "Blackberrys",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "17%",
+            "status": "active"
+        },
+        {
+            "id": 455,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.oppo.com%2Fin%2Fstore&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/6052/oppo.jpg",
+            "merchant": "Oppo",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "4.25%",
+            "status": "active"
+        },
+        {
+            "id": 456,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Freebok.abfrl.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/476457/reebok_logo.png",
+            "merchant": "Reebok",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "23%",
+            "status": "inactive"
+        },
+        {
+            "id": 525,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.starhealth.in%2Flp%2Fhealth-insurance-v1%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/487474/images.png",
+            "merchant": "Star Health",
+            "category": "Online Services",
+            "type": "cps",
+            "payout": "₹3500",
+            "status": "active"
+        },
+        {
+            "id": 526,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpi&url=https%3A%2F%2Fwww.purplle.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/6347/7JdJiLXA.jpg",
+            "merchant": "Purplle",
+            "category": "Health & Beauty",
+            "type": "cpi",
+            "payout": "₹14",
+            "status": "inactive"
+        },
+        {
+            "id": 566,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.airindia.com%2Fen-in%2Fbook-flights%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/6387/air-india.jpeg",
+            "merchant": "Air India",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "₹440",
+            "status": "active"
+        },
+        {
+            "id": 577,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.asianpaints.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/407611/asian-paint-logo.png",
+            "merchant": "Asian Paints",
+            "category": "Others,Home & Kitchen",
+            "type": "cpl",
+            "payout": "₹150",
+            "status": "inactive"
+        },
+        {
+            "id": 603,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.goibibo.com%2Fflights%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394615/goibibo-logo-400x200.png-2.png",
+            "merchant": "Goibibo (Flights)",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "₹200",
+            "status": "inactive"
+        },
+        {
+            "id": 608,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.urbanladder.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/7373/urbanladder-1480321746182.png",
+            "merchant": "Urban Ladder",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "5.5%",
+            "status": "active"
+        },
+        {
+            "id": 645,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.qatarairways.com%2Fen%2Fhomepage.html&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/532120/qatar.png",
+            "merchant": "Qatar Airways",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "4%",
+            "status": "active"
+        },
+        {
+            "id": 696,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.goindigo.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394619/INDIGO-LOGO.png",
+            "merchant": "IndiGo",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "₹95",
+            "status": "active"
+        },
+        {
+            "id": 722,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.jaypore.com%2Fc%2Feoss-2025&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/397020/Jaypore-logo.png",
+            "merchant": "Jaypore",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "10.5%",
+            "status": "active"
+        },
+        {
+            "id": 734,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fcustomer.credilio.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/476247/images.png",
+            "merchant": "SBM Credit Card",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹1500",
+            "status": "inactive"
+        },
+        {
+            "id": 742,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fgetpopcard.co%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/521401/logo.png",
+            "merchant": "Yes Bank POP CC",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹1500",
+            "status": "active"
+        },
+        {
+            "id": 765,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Flittleboxindia.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/544328/logo.png",
+            "merchant": "Little Box",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "9.6%",
+            "status": "active"
+        },
+        {
+            "id": 795,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.nilkamalfurniture.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/389367/Nilkamal-logo.png",
+            "merchant": "Nilkamal",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "13.09%",
+            "status": "active"
+        },
+        {
+            "id": 918,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpc&url=https%3A%2F%2Fwww.skyscanner.co.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398676/Skyscanner-logo.png",
+            "merchant": "Skyscanner",
+            "category": "Travel",
+            "type": "cpc",
+            "payout": "₹4",
+            "status": "inactive"
+        },
+        {
+            "id": 933,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.bluehost.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393852/blue-host-logo.png",
+            "merchant": "Bluehost",
+            "category": "Domain & Hosting",
+            "type": "cps",
+            "payout": "₹72000",
+            "status": "active"
+        },
+        {
+            "id": 941,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.hostgator.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328868/hostgator--logo-400x200-psd.png",
+            "merchant": "HostGator",
+            "category": "Domain & Hosting",
+            "type": "cps",
+            "payout": "₹3000",
+            "status": "inactive"
+        },
+        {
+            "id": 960,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.vijaysales.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/341818/vijay-sale-logo-400-x-200.png",
+            "merchant": "Vijay Sales",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "4%",
+            "status": "active"
+        },
+        {
+            "id": 1003,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.thesouledstore.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393371/The-Souled-store-logo.png",
+            "merchant": "The Souled Store",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "₹135",
+            "status": "inactive"
+        },
+        {
+            "id": 1013,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.furlenco.com%2Frent&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/375362/download-%2832%29.png",
+            "merchant": "Furlenco",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "₹550",
+            "status": "active"
+        },
+        {
+            "id": 1055,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.soulflower.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398856/soul-flower-logo.png",
+            "merchant": "Soulflower",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "11.7%",
+            "status": "active"
+        },
+        {
+            "id": 1116,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fclctab.axisbank.co.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/456941/axis.png",
+            "merchant": "Axis Bank CC",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹2400",
+            "status": "inactive"
+        },
+        {
+            "id": 1120,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.pngjewellers.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/7887/pngadgiljewellers.jpeg",
+            "merchant": "P N Gadgil Jewellers",
+            "category": "Jewelery",
+            "type": "cps",
+            "payout": "3.5%",
+            "status": "active"
+        },
+        {
+            "id": 1224,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.netflix.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/67589/9k%3D",
+            "merchant": "Netflix",
+            "category": "Entertainment",
+            "type": "cps",
+            "payout": "₹100",
+            "status": "inactive"
+        },
+        {
+            "id": 1245,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.dbs.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/493444/images.jpeg",
+            "merchant": "DBS Digibank",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹350",
+            "status": "inactive"
+        },
+        {
+            "id": 1247,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Foffer.alibaba.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/108122/alibaba-1.png",
+            "merchant": "Alibaba",
+            "category": "Electronics,Home & Kitchen",
+            "type": "cps",
+            "payout": "4.5%",
+            "status": "inactive"
+        },
+        {
+            "id": 1257,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.canvaschamp.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/497456/CANVAS-CHAMP-LOGO.png",
+            "merchant": "CanvasChamp",
+            "category": "Gifting & Toys",
+            "type": "cps",
+            "payout": "₹200",
+            "status": "inactive"
+        },
+        {
+            "id": 1339,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpr&url=https%3A%2F%2Fapp.appsflyer.com%2Fcom.unacademyapp&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/8106/unacademy.jpeg",
+            "merchant": "Unacademy",
+            "category": "Education",
+            "type": "cpr",
+            "payout": "₹25",
+            "status": "inactive"
+        },
+        {
+            "id": 1384,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fcarltonlondon.co.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/411823/download---2023-06-01T165154.800.png",
+            "merchant": "Carlton London",
+            "category": ",Fashion",
+            "type": "cps",
+            "payout": "10.2%",
+            "status": "inactive"
+        },
+        {
+            "id": 1398,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.soch.com%2Fin%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/435443/soch-logo.png",
+            "merchant": "Soch",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "10%",
+            "status": "active"
+        },
+        {
+            "id": 1416,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fapplyonline.hdfcbank.com%2Fcards%2Fcredit-cards.html&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/523320/IMG_2487.png",
+            "merchant": "HDFC Pixel Card",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹2450",
+            "status": "inactive"
+        },
+        {
+            "id": 1504,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.kamaayurveda.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328909/kama--400x200-png.png",
+            "merchant": "Kama Ayurveda",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "25%",
+            "status": "active"
+        },
+        {
+            "id": 1506,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.gonoise.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394621/gonoise-logo.png",
+            "merchant": "Noise",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "7.2%",
+            "status": "active"
+        },
+        {
+            "id": 1509,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.hotstar.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/182290/download-%281%29.jpg",
+            "merchant": "Disney+Hotstar",
+            "category": "Entertainment",
+            "type": "cps",
+            "payout": "₹70",
+            "status": "inactive"
+        },
+        {
+            "id": 1512,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.malaysiaairlines.com%2Fmy%2Fen%2Fhome.html&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/8280/malaysiaairlines-1481702651272.png",
+            "merchant": "Malaysia Airlines",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "1.6%",
+            "status": "active"
+        },
+        {
+            "id": 1514,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.instamoney.app%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/516196/IMG_1810.jpeg",
+            "merchant": "Instamoney",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹100",
+            "status": "active"
+        },
+        {
+            "id": 1515,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.cars24.com%2Fbuy-used-car%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/136437/cars-24-1.png",
+            "merchant": "Cars24 (Buy)",
+            "category": "Services",
+            "type": "cpl",
+            "payout": "₹1500",
+            "status": "inactive"
+        },
+        {
+            "id": 1563,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl_lead&url=https%3A%2F%2Fpwa.bajajfinservsecurities.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/485267/images.png",
+            "merchant": "Bajaj Demat ",
+            "category": "Banking & Finance",
+            "type": "cpl_lead",
+            "payout": "₹130",
+            "status": "active"
+        },
+        {
+            "id": 1567,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Forganicindia.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/400991/download-%28100%29.png",
+            "merchant": "Organic India",
+            "category": "Food & Grocery,Health & Beauty",
+            "type": "cps",
+            "payout": "14%",
+            "status": "active"
+        },
+        {
+            "id": 1584,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.khadinatural.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/8352/khadi-1490005198487.jpg",
+            "merchant": "Khadi Natural",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "18%",
+            "status": "active"
+        },
+        {
+            "id": 1611,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fpharmeasy.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/69361/pharm.jpg",
+            "merchant": "PharmEasy",
+            "category": "Medical & Healthcare",
+            "type": "cps",
+            "payout": "₹382.5",
+            "status": "inactive"
+        },
+        {
+            "id": 1626,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.azafashions.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/8394/aza-1493100067158.jpg",
+            "merchant": "Aza",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "4%",
+            "status": "inactive"
+        },
+        {
+            "id": 1636,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.rummycircle.com%2Fplay-online-rummy-fs-10000-noreg-log.html&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398641/Rummy-circle-logo.png",
+            "merchant": "RummyCircle",
+            "category": "Gaming",
+            "type": "cpa",
+            "payout": "₹1000",
+            "status": "inactive"
+        },
+        {
+            "id": 1696,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.newchic.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/445798/newchic_logo.png",
+            "merchant": "Newchic",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "18%",
+            "status": "active"
+        },
+        {
+            "id": 1702,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.licious.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/339051/licious-logo.jpeg",
+            "merchant": "Licious App",
+            "category": "Food & Grocery",
+            "type": "cps",
+            "payout": "₹300",
+            "status": "active"
+        },
+        {
+            "id": 1711,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.banggood.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/74971/ban.jpg",
+            "merchant": "Banggood",
+            "category": "Electronics,Fashion",
+            "type": "cps",
+            "payout": "13%",
+            "status": "active"
+        },
+        {
+            "id": 1719,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpr&url=https%3A%2F%2Fwww.vision11.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/519028/IMG_2049.png",
+            "merchant": "Vision 11 CPR",
+            "category": "Gaming",
+            "type": "cpr",
+            "payout": "₹36",
+            "status": "inactive"
+        },
+        {
+            "id": 1729,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fin.iherb.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/395010/iherb-logo.png",
+            "merchant": "iHerb",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "5%",
+            "status": "active"
+        },
+        {
+            "id": 1769,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fhongskitchen.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/434281/hongskitchen-logo.png",
+            "merchant": "Hong's Kitchen",
+            "category": "Food & Grocery",
+            "type": "cps",
+            "payout": "₹360",
+            "status": "inactive"
+        },
+        {
+            "id": 1796,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww2.hm.com%2Fen_in%2Findex.html&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/8564/hm-1504596659584.jpg",
+            "merchant": "H&M",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "5.04%",
+            "status": "active"
+        },
+        {
+            "id": 1809,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.upgrad.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/8577/upgrad-1505197701806.png",
+            "merchant": "UpGrad",
+            "category": "Education,Online Services",
+            "type": "cps",
+            "payout": "₹700",
+            "status": "active"
+        },
+        {
+            "id": 1843,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fhavells.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/111740/Havells-1.jpg",
+            "merchant": "Havells",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "2.55%",
+            "status": "active"
+        },
+        {
+            "id": 1881,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.biotique.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/69358/vUnTUAAAAASUVORK5CYII%3D",
+            "merchant": "Biotique",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "40%",
+            "status": "inactive"
+        },
+        {
+            "id": 1904,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.klook.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/397059/download-%2880%29.png",
+            "merchant": "Klook",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "5%",
+            "status": "active"
+        },
+        {
+            "id": 1940,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.guardian.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394633/GNC-LOGO.png",
+            "merchant": "GNC India",
+            "category": "Sports & Fitness",
+            "type": "cps",
+            "payout": "9.5%",
+            "status": "active"
+        },
+        {
+            "id": 1943,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.myglamm.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/78602/my%20glamm.jpg",
+            "merchant": "MyGlamm",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "17%",
+            "status": "inactive"
+        },
+        {
+            "id": 1959,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.fiverr.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394590/fiverr.png",
+            "merchant": "Fiverr",
+            "category": "Online Services",
+            "type": "cpa",
+            "payout": "₹10350",
+            "status": "active"
+        },
+        {
+            "id": 1970,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fjoin.thepanelstation.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/8738/1523278621386.jpg",
+            "merchant": "The Panel Station",
+            "category": "Online Services",
+            "type": "cpl",
+            "payout": "₹88",
+            "status": "inactive"
+        },
+        {
+            "id": 1981,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fmoneyview.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/510961/m.png",
+            "merchant": "Moneyview",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹640",
+            "status": "inactive"
+        },
+        {
+            "id": 1988,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fupstox.com%2Fopen-demat-account%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/490824/images.jpeg",
+            "merchant": "Upstox Web",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹280",
+            "status": "active"
+        },
+        {
+            "id": 1993,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.ustraa.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/400539/ustra-logo.png",
+            "merchant": "Ustraa",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "22%",
+            "status": "active"
+        },
+        {
+            "id": 2014,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl_lead&url=https%3A%2F%2Fwww.airtel.in%2Fnew-connection%2Fbroadband%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/9746/39aa7c77939974e9541e584db1c77869.jpg",
+            "merchant": "Airtel Broadband",
+            "category": "Recharge,Services",
+            "type": "cpl_lead",
+            "payout": "₹1000",
+            "status": "inactive"
+        },
+        {
+            "id": 2028,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.online.citibank.co.in%2Fcredit-card%2Fapply&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/25135/Citibank.png",
+            "merchant": "Citibank Credit Card",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹3500",
+            "status": "inactive"
+        },
+        {
+            "id": 2037,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.sugarcosmetics.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398873/sugar-logo.png",
+            "merchant": "Sugar",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "12%",
+            "status": "active"
+        },
+        {
+            "id": 2048,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpr&url=https%3A%2F%2Fwww.winzogames.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/502083/winzo_logo.png",
+            "merchant": "Winzo",
+            "category": "Gaming",
+            "type": "cpr",
+            "payout": "₹60",
+            "status": "inactive"
+        },
+        {
+            "id": 2052,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpft&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.Dominos%26hl%3Den_IN%26gl%3DUS&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328808/dominos-logo-400x200-png.png",
+            "merchant": "Domino's App",
+            "category": "Food & Grocery",
+            "type": "cpft",
+            "payout": "₹35",
+            "status": "inactive"
+        },
+        {
+            "id": 2059,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.mcaffeine.com%2Fcollections%2Fspecial-offer&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328893/mcaffeine---400x200-png.png",
+            "merchant": "mCaffeine",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "18%",
+            "status": "inactive"
+        },
+        {
+            "id": 2076,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.aceblend.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/535606/ace-blend-logo-01.png",
+            "merchant": "Ace Blend",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "12%",
+            "status": "active"
+        },
+        {
+            "id": 2089,
+            "url": "https://inr.deals/track?src=stores-api&campaign=hotel&url=https%3A%2F%2Fwww.goibibo.com%2Fhotels%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394617/goibibo-logo-400x200.png-2.png",
+            "merchant": "Goibibo (Hotels)",
+            "category": "Travel",
+            "type": "hotel",
+            "payout": "₹360",
+            "status": "active"
+        },
+        {
+            "id": 2094,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpr&url=https%3A%2F%2Fwww.bhimupi.org.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/44154/13-1484562860.jpg",
+            "merchant": "BHIM UPI CPR",
+            "category": "Banking & Finance",
+            "type": "cpr",
+            "payout": "₹4",
+            "status": "inactive"
+        },
+        {
+            "id": 2116,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fcampaigns.icicibank.com%2Fcredit-card%2FplatinumCreditCard%2Findex.html&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394994/icici-bank-logo.png",
+            "merchant": "ICICI Credit Card",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹1700",
+            "status": "active"
+        },
+        {
+            "id": 2117,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa_lead&url=https%3A%2F%2Fwww.sbicard.com%2Fsprint%2FsimplyClickMaster&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398652/sbi-card-logo.png",
+            "merchant": "SBI Credit Card (Simply Click)",
+            "category": "Banking & Finance",
+            "type": "cpa_lead",
+            "payout": "₹2800",
+            "status": "inactive"
+        },
+        {
+            "id": 2118,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps_durex&url=https%3A%2F%2Fwww.durexindia.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394074/durex-logo.png",
+            "merchant": "Durex",
+            "category": "Health & Beauty",
+            "type": "cps_durex",
+            "payout": "22%",
+            "status": "active"
+        },
+        {
+            "id": 2153,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.icicilombard.com%2Fmotor-insurance%2Fcar-insurance&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/467639/R.jpg",
+            "merchant": "ICICI Lombard (Car)",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "40%",
+            "status": "active"
+        },
+        {
+            "id": 2163,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.kotak811.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/397086/kotak-logo400x200.png",
+            "merchant": "Kotak 811",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹500",
+            "status": "active"
+        },
+        {
+            "id": 2169,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.swiggy.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328655/swiggy--logo-400x200-png.png",
+            "merchant": "Swiggy App",
+            "category": "Food & Grocery",
+            "type": "cpa",
+            "payout": "₹30",
+            "status": "inactive"
+        },
+        {
+            "id": 2173,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.kentaffiliate.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/89131/kent-mineral-ro-water-purifiers-logo.png",
+            "merchant": "Kent RO",
+            "category": "Home & Kitchen",
+            "type": "cpl",
+            "payout": "₹100",
+            "status": "inactive"
+        },
+        {
+            "id": 2174,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fmamaearth.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393757/mamaearth-400x200-png.png",
+            "merchant": "Mamaearth",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "6.80%",
+            "status": "active"
+        },
+        {
+            "id": 2183,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.realme.com%2Fin%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398628/Realme-logo.png",
+            "merchant": "Realme",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "2.55%",
+            "status": "active"
+        },
+        {
+            "id": 2190,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.dhgate.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/117002/DHgate-1.png",
+            "merchant": "DHgate",
+            "category": "Accessories,Electronics",
+            "type": "cps",
+            "payout": "9%",
+            "status": "active"
+        },
+        {
+            "id": 2192,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.timesprime.com%2Fnew-campaign%2Fn33new&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/400516/Times-prime-logo.png",
+            "merchant": "Times Prime",
+            "category": "Online Services",
+            "type": "cpa",
+            "payout": "₹245",
+            "status": "active"
+        },
+        {
+            "id": 2196,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.maxlifeinsurance.com%2Fterm-insurance-plans%2Fpremium-calculator&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/119152/max1.png",
+            "merchant": "Max Life Insurance",
+            "category": "Online Services",
+            "type": "cps",
+            "payout": "100%",
+            "status": "inactive"
+        },
+        {
+            "id": 2203,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fibacosmetics.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394983/iba-LOGO.png",
+            "merchant": "Iba Cosmetics",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "20%",
+            "status": "active"
+        },
+        {
+            "id": 2207,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fkapiva.in%2Fshop-all%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/397026/kapiva--400x200-png.png",
+            "merchant": "Kapiva",
+            "category": "Food & Grocery,Health & Beauty",
+            "type": "cps",
+            "payout": "17.42%",
+            "status": "active"
+        },
+        {
+            "id": 2219,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpr&url=https%3A%2F%2Fcreditreport.paisabazaar.com%2Fcredit-report%2Fapply&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/128485/Paisabazaar-1.jpg",
+            "merchant": "PaisaBazaar Credit Score",
+            "category": "Banking & Finance",
+            "type": "cpr",
+            "payout": "₹20",
+            "status": "inactive"
+        },
+        {
+            "id": 2220,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.thenaturalwash.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/128712/natural-2.png",
+            "merchant": "The Natural Wash",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "13.5%",
+            "status": "active"
+        },
+        {
+            "id": 2224,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.geekbuying.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394600/geekbuying.png",
+            "merchant": "Geekbuying",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "5%",
+            "status": "active"
+        },
+        {
+            "id": 2239,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.hostinger.com%2Fin&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394981/Hostinger-LOGO.png",
+            "merchant": "Hostinger",
+            "category": "Domain & Hosting",
+            "type": "cps",
+            "payout": "58%",
+            "status": "active"
+        },
+        {
+            "id": 2248,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa_hybrid&url=https%3A%2F%2Fwww.fiverr.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/144718/wAAAABJRU5ErkJggg%253D%253D.png",
+            "merchant": "Fiverr Hybrid",
+            "category": "Online Services",
+            "type": "cpa_hybrid",
+            "payout": "10%",
+            "status": "active"
+        },
+        {
+            "id": 2249,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.fiverr.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/144719/wAAAABJRU5ErkJggg%253D%253D.png",
+            "merchant": "Fiverr Learn",
+            "category": "Education",
+            "type": "cpa",
+            "payout": "30%",
+            "status": "active"
+        },
+        {
+            "id": 2257,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fnordvpn.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398131/nord-vpn-logo.png",
+            "merchant": "Nord Vpn",
+            "category": "Others",
+            "type": "cps",
+            "payout": "70%",
+            "status": "active"
+        },
+        {
+            "id": 2262,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.hostpapa.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/145271/hostpapa-1.jpg",
+            "merchant": "Hostpapa",
+            "category": "Domain & Hosting",
+            "type": "cpa",
+            "payout": "₹3600",
+            "status": "active"
+        },
+        {
+            "id": 2268,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.5paisa.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/145541/logo.png",
+            "merchant": "5paisa",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹490",
+            "status": "inactive"
+        },
+        {
+            "id": 2275,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.inmotionhosting.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/395025/inmotion-hosting-logo.png",
+            "merchant": "Inmotion Hosting",
+            "category": "Domain & Hosting",
+            "type": "cpa",
+            "payout": "50%",
+            "status": "inactive"
+        },
+        {
+            "id": 2277,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fsolidwp.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/396749/ithemes-logo.png",
+            "merchant": "iThemes",
+            "category": "Domain & Hosting",
+            "type": "cps",
+            "payout": "25%",
+            "status": "inactive"
+        },
+        {
+            "id": 2279,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.bookvip.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/150303/logo.jpg",
+            "merchant": "BookVip.com",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "35%",
+            "status": "inactive"
+        },
+        {
+            "id": 2287,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl_lead&url=https%3A%2F%2Fwww.bajajfinserv.in%2Finsta-emi-network-card-apply-online&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/384213/emi-logo.png",
+            "merchant": "Bajaj Finserv Insta EMI Card",
+            "category": "Banking & Finance",
+            "type": "cpl_lead",
+            "payout": "₹250",
+            "status": "active"
+        },
+        {
+            "id": 2289,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.jiomart.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/157250/jiomart_logo_inrdeals.png",
+            "merchant": "JioMart",
+            "category": "Food & Grocery",
+            "type": "cps",
+            "payout": "₹150",
+            "status": "inactive"
+        },
+        {
+            "id": 2293,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fplumgoodness.com%2Fcollections%2Fall-in-stock&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328940/PLUM--400x200-PNG.png",
+            "merchant": "Plum Goodness",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "18%",
+            "status": "active"
+        },
+        {
+            "id": 2295,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.cloudways.com%2Fen%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/341664/CLOUDS-WAY-logo-400-x-200.png",
+            "merchant": "Cloudways",
+            "category": "Domain & Hosting",
+            "type": "cps",
+            "payout": "₹2415",
+            "status": "active"
+        },
+        {
+            "id": 2298,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Finduseasycredit.indusind.com%2Fcustomer%2Fcredit-card&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/395016/induslnd-bank-logo.png",
+            "merchant": "Indusind Bank Credit Card",
+            "category": "Banking & Finance",
+            "type": "cps",
+            "payout": "₹1700",
+            "status": "active"
+        },
+        {
+            "id": 2302,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fm.docsapp.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394070/Docos-app-logo.png",
+            "merchant": "DocsApp",
+            "category": "Online Services",
+            "type": "cps",
+            "payout": "₹1000",
+            "status": "inactive"
+        },
+        {
+            "id": 2305,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.truebasics.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/400529/True-Basics-logo.png",
+            "merchant": "TrueBasics",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "8%",
+            "status": "active"
+        },
+        {
+            "id": 2308,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.tutorialspoint.com%2Fmarket%2Findex.asp&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/341749/tutorial-point-logo-400-x-200.png",
+            "merchant": "Tutorials Point WW",
+            "category": "Education",
+            "type": "cps",
+            "payout": "20%",
+            "status": "active"
+        },
+        {
+            "id": 2317,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fpgshop.in%2Fexciting-offers&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/174295/pglogo_1595871141__34900.original.png",
+            "merchant": "P&G",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "11.6%",
+            "status": "inactive"
+        },
+        {
+            "id": 2320,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.buywow.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328565/wow-logo--400x200-psd.png",
+            "merchant": "Wow Skin Science",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "21.25%",
+            "status": "active"
+        },
+        {
+            "id": 2324,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.stevemadden.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398869/Steve-Madden-logo.png",
+            "merchant": "Steve Madden",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "8.5%",
+            "status": "inactive"
+        },
+        {
+            "id": 2327,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fpizzahutuniversal.app.link&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328828/pizza-hut--logo-400x200-png.png",
+            "merchant": "Pizza Hut_App",
+            "category": "Food & Grocery",
+            "type": "cpa",
+            "payout": "₹52",
+            "status": "inactive"
+        },
+        {
+            "id": 2334,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fassemblytravel.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/475390/Assembly_logo.png",
+            "merchant": "Assembly",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "12%",
+            "status": "active"
+        },
+        {
+            "id": 2339,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.bisleri.com%2Fproduct-listing%2Fvedica&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/193591/23675-8257b2b1b0a69ba0.png",
+            "merchant": "Bisleri",
+            "category": "Food & Grocery",
+            "type": "cps",
+            "payout": "36%",
+            "status": "inactive"
+        },
+        {
+            "id": 2341,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fespresso.dematonline.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328618/espresso--400x200-psd.png",
+            "merchant": "Espresso",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹750",
+            "status": "inactive"
+        },
+        {
+            "id": 2343,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.opinionworld.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/199418/ow-color.jpg",
+            "merchant": "Opinion World",
+            "category": "Education",
+            "type": "cpl",
+            "payout": "₹160",
+            "status": "active"
+        },
+        {
+            "id": 2354,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.hamleys.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394638/Hamleys-logo.png",
+            "merchant": "Hamleys",
+            "category": "Baby & Kids,Gifting & Toys",
+            "type": "cps",
+            "payout": " 6.3% ",
+            "status": "inactive"
+        },
+        {
+            "id": 2356,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.milton.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/202047/MILTON.jpg",
+            "merchant": "MILTON",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "13%",
+            "status": "active"
+        },
+        {
+            "id": 2357,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.boat-lifestyle.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393854/boat-logo_Black_png.png",
+            "merchant": "boAt",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "6.8%",
+            "status": "active"
+        },
+        {
+            "id": 2359,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa_android&url=https%3A%2F%2Fwww.cred.club%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/203985/png-credd.jpg",
+            "merchant": "Cred",
+            "category": "Banking & Finance",
+            "type": "cpa_android",
+            "payout": "₹350",
+            "status": "inactive"
+        },
+        {
+            "id": 2373,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.adobe.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393771/adobe_logo.png",
+            "merchant": "Adobe",
+            "category": "Online Services",
+            "type": "cps",
+            "payout": "68%",
+            "status": "inactive"
+        },
+        {
+            "id": 2377,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fkirobeauty.com%2Fcollections%2Fall&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/329727/kiro-logo-400x200-psd.png",
+            "merchant": "Kiro Beauty",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "40%",
+            "status": "active"
+        },
+        {
+            "id": 2378,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Feske.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/494867/Untitled-design-%2878%29.png",
+            "merchant": "Eske",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "17%",
+            "status": "inactive"
+        },
+        {
+            "id": 2381,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.coursera.org&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/381105/courseA-%281%29-%281%29.jpg",
+            "merchant": "Coursera",
+            "category": "Education",
+            "type": "cps",
+            "payout": "4.4%",
+            "status": "inactive"
+        },
+        {
+            "id": 2384,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.my11circle.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/395521/my11circle-logo.png",
+            "merchant": "My11Circle",
+            "category": "Entertainment,Gaming",
+            "type": "cpa",
+            "payout": "₹500",
+            "status": "inactive"
+        },
+        {
+            "id": 2385,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.reliancedigital.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/239001/rel.png",
+            "merchant": "Reliance Digital",
+            "category": "Electronics,Online Services",
+            "type": "cps",
+            "payout": "3.60%",
+            "status": "active"
+        },
+        {
+            "id": 2386,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.myteam11.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/239208/myteam11-logo.jpg",
+            "merchant": "Myteam11 CPR",
+            "category": "Gaming",
+            "type": "cpa",
+            "payout": "₹40",
+            "status": "inactive"
+        },
+        {
+            "id": 2392,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.valuedopinions.co.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/341791/valued-opinions-removebg-preview.png",
+            "merchant": "Valued Opinions",
+            "category": "Services",
+            "type": "cpl",
+            "payout": "₹160",
+            "status": "active"
+        },
+        {
+            "id": 2394,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fmanmatters.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/397407/man-mattress-logo.png",
+            "merchant": "Man Matters",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "28%",
+            "status": "active"
+        },
+        {
+            "id": 2396,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.calvinklein.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/247583/cal.png",
+            "merchant": "Calvin Klein",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "7%",
+            "status": "inactive"
+        },
+        {
+            "id": 2401,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fin.urbanic.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/341795/urbanic-logo-400-x-200.png",
+            "merchant": "Urbanic",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "12.6%",
+            "status": "inactive"
+        },
+        {
+            "id": 2408,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.muscleblaze.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/329398/muscle-blaze---400x200-png.png",
+            "merchant": "Muscle Blaze",
+            "category": "Sports & Fitness",
+            "type": "cps",
+            "payout": "6.8%",
+            "status": "active"
+        },
+        {
+            "id": 2414,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.oziva.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398603/OZIVA-400X200-LOGO.png",
+            "merchant": "Oziva",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "17%",
+            "status": "inactive"
+        },
+        {
+            "id": 2417,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.thesirona.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/261248/sir.png",
+            "merchant": "Sirona",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "12%",
+            "status": "active"
+        },
+        {
+            "id": 2422,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.goniyo.com%2Fniyox-equitas%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/262129/ni.png",
+            "merchant": "Niyox Saving Account",
+            "category": "Banking & Finance,Online Services",
+            "type": "cpa",
+            "payout": "₹190",
+            "status": "inactive"
+        },
+        {
+            "id": 2423,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fbebodywise.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393806/bebodywise-logo.png",
+            "merchant": "BeBodywise",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "42%",
+            "status": "active"
+        },
+        {
+            "id": 2424,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Finet.equitasbank.com%2FSelfe%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/262410/eq.jpg",
+            "merchant": "Equitas Bank Saving",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹340",
+            "status": "inactive"
+        },
+        {
+            "id": 2429,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.dyson.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/396262/dyson-logo.png",
+            "merchant": "Dyson India",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "2.8%",
+            "status": "active"
+        },
+        {
+            "id": 2430,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.federalbank.co.in%2Fstellar-247&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/265460/ff.png",
+            "merchant": "Federal Bank",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹450",
+            "status": "inactive"
+        },
+        {
+            "id": 2432,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fkiehls.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/269571/k.png",
+            "merchant": "Kiehl's ",
+            "category": "Fashion,Health & Beauty",
+            "type": "cps",
+            "payout": "50%",
+            "status": "inactive"
+        },
+        {
+            "id": 2435,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Felements.envato.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394125/envato-logo.png",
+            "merchant": "Envato Elements",
+            "category": "Online Services",
+            "type": "cps",
+            "payout": "₹6900",
+            "status": "active"
+        },
+        {
+            "id": 2437,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps_sale&url=https%3A%2F%2Fwww.medibuddy.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/270420/med.jpg",
+            "merchant": "Medibuddy (Lab Test)",
+            "category": "Medical & Healthcare",
+            "type": "cps_sale",
+            "payout": "₹100",
+            "status": "active"
+        },
+        {
+            "id": 2444,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fswisse.co.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/274590/oo.png",
+            "merchant": "Swisse",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "17%",
+            "status": "active"
+        },
+        {
+            "id": 2460,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps_sale&url=https%3A%2F%2Fwww.tataaig.com%2Fbuy-online%2Fmotor-insurance%2Fcar-insurance&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/282205/tata.png",
+            "merchant": "TATA AIG Car Insurance",
+            "category": "Banking & Finance",
+            "type": "cps_sale",
+            "payout": "55%",
+            "status": "inactive"
+        },
+        {
+            "id": 2462,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Ffarmrooter.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394167/farmrooter--logo.png",
+            "merchant": "Farmrooter",
+            "category": "Online Services",
+            "type": "cps",
+            "payout": "20%",
+            "status": "active"
+        },
+        {
+            "id": 2472,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fthedermaco.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/400474/derma-logo.png",
+            "merchant": "The Derma Co",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "11.05%",
+            "status": "active"
+        },
+        {
+            "id": 2481,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl_sell&url=https%3A%2F%2Fwww.cars24.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/295040/p.png",
+            "merchant": "Cars24 (Sell)",
+            "category": "Online Services",
+            "type": "cpl_sell",
+            "payout": "₹1000",
+            "status": "inactive"
+        },
+        {
+            "id": 2493,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fayurvedic-source.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/416111/ayurvedic-source-logo.png",
+            "merchant": "Ayurvedic Source",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "30%",
+            "status": "inactive"
+        },
+        {
+            "id": 2495,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.indusind.com%2Fin%2Fen%2Fpersonal%2Faccounts%2Fsaving-account.html&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/300384/mm.png",
+            "merchant": "Indusind Saving Account",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹350",
+            "status": "inactive"
+        },
+        {
+            "id": 2501,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fsanfe.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398645/sanfe-logo.png",
+            "merchant": "Sanfe",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "12%",
+            "status": "active"
+        },
+        {
+            "id": 2503,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fin.toluna.com%2FRegister%2FRegisterPanelTeam&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/301987/ooo.png",
+            "merchant": "Toluna - Genpop Survey (App) ",
+            "category": "Online Services",
+            "type": "cpa",
+            "payout": "₹69",
+            "status": "inactive"
+        },
+        {
+            "id": 2505,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fnavi.com%2Fnavi-upi&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/397941/navi-logo.png",
+            "merchant": "Navi UPI",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹20",
+            "status": "active"
+        },
+        {
+            "id": 2506,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.idfcfirstbank.com%2Fcredit-card%2Fntb-diy%2Fapply&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/395001/IDFC-First-logo.png",
+            "merchant": "IDFC Bank - CC",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹1200",
+            "status": "active"
+        },
+        {
+            "id": 2511,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.sonyliv.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/305909/livsony.jpg",
+            "merchant": "Sonyliv",
+            "category": "Entertainment",
+            "type": "cpl",
+            "payout": "₹100",
+            "status": "inactive"
+        },
+        {
+            "id": 2517,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.theauric.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/384202/auric-logo-400x200.png",
+            "merchant": "Auric",
+            "category": "Food & Grocery",
+            "type": "cps",
+            "payout": "12%",
+            "status": "active"
+        },
+        {
+            "id": 2520,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps_app&url=https%3A%2F%2Fmcdindia.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/307014/mcd.jpeg",
+            "merchant": "McDonalds App",
+            "category": "Food & Grocery",
+            "type": "cps_app",
+            "payout": "₹60",
+            "status": "inactive"
+        },
+        {
+            "id": 2522,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.axismf.com%2Fmicro-investing&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/309588/kk.png",
+            "merchant": "Axis MF",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹1300",
+            "status": "active"
+        },
+        {
+            "id": 2525,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fnuawoman.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398137/nua-women-logo.png",
+            "merchant": "Nua",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "24%",
+            "status": "active"
+        },
+        {
+            "id": 2531,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpt&url=https%3A%2F%2Fpharmeasy.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/316591/ksd.png",
+            "merchant": "Pharmeasy CPT",
+            "category": "Health & Beauty",
+            "type": "cpt",
+            "payout": "₹210",
+            "status": "inactive"
+        },
+        {
+            "id": 2539,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fsuperbottoms.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398875/supper-bottom-logo-png.png",
+            "merchant": "Super Bottoms",
+            "category": "Baby & Kids",
+            "type": "cps",
+            "payout": "12.75%",
+            "status": "active"
+        },
+        {
+            "id": 2545,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.bajajfinserv.in%2Finvestments%2Ffixed-deposit-application-form&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/491043/images.png",
+            "merchant": "Bajaj FD",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "8%",
+            "status": "inactive"
+        },
+        {
+            "id": 2548,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.tatadigital.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398888/tataneu-logo.png",
+            "merchant": "Tata Neu App",
+            "category": "Electronics,Fashion",
+            "type": "cps",
+            "payout": "₹190",
+            "status": "inactive"
+        },
+        {
+            "id": 2550,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fzouk.co.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/400460/zouk---400x200-png.png",
+            "merchant": "Zouk",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "10.2%",
+            "status": "inactive"
+        },
+        {
+            "id": 2556,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.skinn.in%2Fshop%2Fcollections&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/328500/logo.png",
+            "merchant": "Titan Skinn",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "18%",
+            "status": "active"
+        },
+        {
+            "id": 2558,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.creditmantri.com%2Fcampaign%2Fequifax%2Fcredit-score%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394031/credit-mantri-logo.png",
+            "merchant": "CreditMantri",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹30",
+            "status": "inactive"
+        },
+        {
+            "id": 2559,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.libas.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/397095/libas-logo.png",
+            "merchant": "Libas",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "8.5%",
+            "status": "active"
+        },
+        {
+            "id": 2560,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpm&url=https%3A%2F%2Fwww.acko.com%2Flp%2Fnew-bike%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/514627/output-onlinepngtools.png",
+            "merchant": "Acko (Bike)",
+            "category": "Online Services",
+            "type": "cpm",
+            "payout": "₹400",
+            "status": "active"
+        },
+        {
+            "id": 2566,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.knowledgehut.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/341648/knoeledge-hut-logo-400-x-200.png",
+            "merchant": "Knowledgehut ",
+            "category": "Education",
+            "type": "cps",
+            "payout": "12%",
+            "status": "inactive"
+        },
+        {
+            "id": 2570,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwellbeingnutrition.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/401946/wellbeingnutrition-logo.png",
+            "merchant": "Wellbeing Nutrition",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "25.5%",
+            "status": "active"
+        },
+        {
+            "id": 2586,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fcconboarding.aubank.in%2Fauccself%2F%23%2Flanding&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/348406/download.png",
+            "merchant": "AU Bank Credit Card",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹450",
+            "status": "active"
+        },
+        {
+            "id": 2591,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.dotandkey.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394072/dot-%26-key-logo.png",
+            "merchant": "Dot & Key",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "14.4%",
+            "status": "active"
+        },
+        {
+            "id": 2593,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fneemans.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/397945/neemans-logo.png",
+            "merchant": "Neeman's",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "11.25%",
+            "status": "active"
+        },
+        {
+            "id": 2598,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.nykaafashion.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/352150/Nykaa-Fashion-logo.png",
+            "merchant": "Nykaa Fashion",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "7.65%",
+            "status": "active"
+        },
+        {
+            "id": 2618,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.uniqlo.com%2Fin%2Fen%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/400537/uniqlo-logo.png",
+            "merchant": "Uniqlo",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "1.7%",
+            "status": "active"
+        },
+        {
+            "id": 2619,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fsmytten.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/357850/Smytten.jpg",
+            "merchant": "Smytten",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "7%",
+            "status": "inactive"
+        },
+        {
+            "id": 2620,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.lotusbotanicals.com%2Fcollections%2Foffer&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/397099/lotous-botanicals-logo-400-x-200.png",
+            "merchant": "Lotus Botanicals",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "25%",
+            "status": "active"
+        },
+        {
+            "id": 2622,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.samsonite.in%2Foffers%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398643/Samsonite.-logo-png.png",
+            "merchant": "Samsonite",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "14.4%",
+            "status": "inactive"
+        },
+        {
+            "id": 2631,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.jackjonesjunior.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/364237/download-%287%29.png",
+            "merchant": "Jack&Jones Junior",
+            "category": "Baby & Kids",
+            "type": "cps",
+            "payout": "10.5%",
+            "status": "inactive"
+        },
+        {
+            "id": 2632,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fswissbeauty.in%2Fcollections%2Fall&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398879/swiss-beauty-400x200-logo.png",
+            "merchant": "Swiss Beauty",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "23%",
+            "status": "active"
+        },
+        {
+            "id": 2634,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.kidsonly.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/397042/kids-only-logo.png",
+            "merchant": "Kids Only",
+            "category": "Baby & Kids",
+            "type": "cps",
+            "payout": "10.5%",
+            "status": "inactive"
+        },
+        {
+            "id": 2638,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpm_car&url=https%3A%2F%2Fwww.acko.com%2Flp%2Fnew-car-comprehensive&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/514628/output-onlinepngtools.png",
+            "merchant": "Acko (Car) ",
+            "category": "Online Services",
+            "type": "cpm_car",
+            "payout": "40%",
+            "status": "active"
+        },
+        {
+            "id": 2639,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Floans.creditlinks.in%2FjIQoBOrt&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/407574/credit-links-logo.png",
+            "merchant": "CreditLinks",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "1.5%",
+            "status": "active"
+        },
+        {
+            "id": 2642,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fblissclub.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/419290/Bliss-Club-loggo.png",
+            "merchant": "BlissClub",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "18.70%",
+            "status": "active"
+        },
+        {
+            "id": 2652,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fhammeronline.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394646/hammer-logo.png",
+            "merchant": "Hammer",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "6.5%",
+            "status": "active"
+        },
+        {
+            "id": 2658,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Frforrabbit.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393748/r-for-rabbit-logo-400x200.png",
+            "merchant": "R for Rabbit",
+            "category": "Baby & Kids",
+            "type": "cps",
+            "payout": "10%",
+            "status": "active"
+        },
+        {
+            "id": 2660,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fgritzo.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394627/Gritzo-logo.png",
+            "merchant": "Gritzo",
+            "category": "Food & Grocery",
+            "type": "cps",
+            "payout": "8.5%",
+            "status": "active"
+        },
+        {
+            "id": 2668,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.spinny.com%2Fsell-used-car&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398858/Spinny-logo.png",
+            "merchant": "Spinny Sell Car",
+            "category": "Online Services",
+            "type": "cpl",
+            "payout": "₹12650",
+            "status": "active"
+        },
+        {
+            "id": 2673,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.koskii.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393372/Koskii-logo.png",
+            "merchant": "Koskii",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "12.5%",
+            "status": "inactive"
+        },
+        {
+            "id": 2677,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Ftraya.health%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/404881/traya-logo.png",
+            "merchant": "Traya",
+            "category": "Medical & Healthcare",
+            "type": "cps",
+            "payout": "25%",
+            "status": "inactive"
+        },
+        {
+            "id": 2682,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fneuherbs.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398119/Neuherbs--logo.png",
+            "merchant": "Neuherbs",
+            "category": "Food & Grocery,Health & Beauty",
+            "type": "cps",
+            "payout": "24.5%",
+            "status": "inactive"
+        },
+        {
+            "id": 2684,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.paisabazaar.com%2Fpersonal-loans&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398614/Paisa-Bazar-Credit-score-logo.png",
+            "merchant": "Paisa Bazaar PL",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹800",
+            "status": "inactive"
+        },
+        {
+            "id": 2691,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwellify.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/402112/wellify-logo.png",
+            "merchant": "Wellify",
+            "category": "Baby & Kids,Health & Beauty",
+            "type": "cps",
+            "payout": "12%",
+            "status": "inactive"
+        },
+        {
+            "id": 2694,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fshop.symphonylimited.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398884/Symphony-logo.png",
+            "merchant": "Symphony",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "17%",
+            "status": "inactive"
+        },
+        {
+            "id": 2696,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fbrooksbrothers.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393886/Brooks-Brother-logo.png",
+            "merchant": "Brooks Brothers",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "7%",
+            "status": "inactive"
+        },
+        {
+            "id": 2698,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.orangehealth.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/386738/35c897eb-oh-logo.png",
+            "merchant": "Orange Health Labs",
+            "category": "Medical & Healthcare",
+            "type": "cps",
+            "payout": "₹140",
+            "status": "inactive"
+        },
+        {
+            "id": 2699,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fcardonline.bobfinancial.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393800/Bank-of-Baroda-logo.png",
+            "merchant": "Bank Of Baroda CC",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹1500",
+            "status": "inactive"
+        },
+        {
+            "id": 2701,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fperforacare.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398620/perfora-logo.png",
+            "merchant": "Perfora",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "15.5%",
+            "status": "active"
+        },
+        {
+            "id": 2703,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.bathandbodyworks.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/503267/Bath-and-Bodyworks-logo.png",
+            "merchant": "Bath&Bodyworks",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "4%",
+            "status": "active"
+        },
+        {
+            "id": 2710,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fbetheshyft.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/391411/shyft-logo.png",
+            "merchant": "Shyft Yoga ",
+            "category": "Health & Beauty",
+            "type": "cpa",
+            "payout": "100%",
+            "status": "inactive"
+        },
+        {
+            "id": 2711,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Famala.earth%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/392296/Amala-earth-logo.png",
+            "merchant": "Amala Earth",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "33.43%",
+            "status": "inactive"
+        },
+        {
+            "id": 2716,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.hkvitals.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/393361/download-%2873%29.png",
+            "merchant": "HK Vitals",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "17%",
+            "status": "active"
+        },
+        {
+            "id": 2722,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.bagline.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/394127/download-%2877%29.png",
+            "merchant": "Bagline",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "8%",
+            "status": "active"
+        },
+        {
+            "id": 2734,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.aldoshoes.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/397327/download-%2883%29.png",
+            "merchant": "Aldo",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "4%",
+            "status": "active"
+        },
+        {
+            "id": 2737,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.pepejeans.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/398618/pepejeans-logo.png",
+            "merchant": "Pepe Jeans",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "15%",
+            "status": "active"
+        },
+        {
+            "id": 2742,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Faqualogica.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/399011/logo.png",
+            "merchant": "Aqualogica",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "30%",
+            "status": "inactive"
+        },
+        {
+            "id": 2749,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.hokmakeup.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/416123/hok-make-up-logo.png",
+            "merchant": "HOK Makeup",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "12%",
+            "status": "active"
+        },
+        {
+            "id": 2756,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Ffullyfilmy.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/402191/download---2023-04-25T171538.580.png",
+            "merchant": "Fully Filmy",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "20%",
+            "status": "inactive"
+        },
+        {
+            "id": 2765,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.peepultree.world%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/404612/download---2023-05-04T142402.615.png",
+            "merchant": "Peepul Tree",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "4.5%",
+            "status": "active"
+        },
+        {
+            "id": 2769,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.thehindu.com%2Fsubscription%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/406072/download---2023-05-09T132255.431.png",
+            "merchant": "The Hindu",
+            "category": "Entertainment",
+            "type": "cps",
+            "payout": "51%",
+            "status": "active"
+        },
+        {
+            "id": 2771,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.muscletech.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/406129/download---2023-05-09T163354.640.png",
+            "merchant": "Muscletech",
+            "category": "Sports & Fitness",
+            "type": "cps",
+            "payout": "8%",
+            "status": "active"
+        },
+        {
+            "id": 2776,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fupakarma.com%2Fshop&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/407573/download---2023-05-15T130449.391.png",
+            "merchant": "Upakarma",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "29%",
+            "status": "active"
+        },
+        {
+            "id": 2783,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fhyugalife.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/409344/download-%2811%29-%282%29.png",
+            "merchant": "HyugaLife",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "9.9%",
+            "status": "active"
+        },
+        {
+            "id": 2788,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.styched.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/409804/download---2023-05-24T153531.001.png",
+            "merchant": "Styched",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "35%",
+            "status": "inactive"
+        },
+        {
+            "id": 2791,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.hdfcergo.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/521854/r.jpeg",
+            "merchant": "HDFC Ergo Car Insurance",
+            "category": "Automobiles",
+            "type": "cps",
+            "payout": "50%",
+            "status": "inactive"
+        },
+        {
+            "id": 2792,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fplans-offers.watcho.com%2Fpromo%2Fwatcho-max-flexi-monthly-with-bogo&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/410315/download---2023-05-26T115559.441.png",
+            "merchant": "Watcho",
+            "category": "Entertainment",
+            "type": "cps",
+            "payout": "68%",
+            "status": "inactive"
+        },
+        {
+            "id": 2797,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.sugarpop.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/411803/download-%2812%29.jpg",
+            "merchant": "Sugarpop",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "14%",
+            "status": "inactive"
+        },
+        {
+            "id": 2807,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fapplycc.yesbank.in%2FYESBankCreditCard%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/507699/download.png",
+            "merchant": "Yes Bank Credit Card",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹1800",
+            "status": "inactive"
+        },
+        {
+            "id": 2810,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.mytrident.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/419325/download---2023-06-27T155426.934.png",
+            "merchant": "MyTrident",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "25%",
+            "status": "active"
+        },
+        {
+            "id": 2814,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fstablemoney.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/515455/IMG_1723.jpeg",
+            "merchant": "Stable Money",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹1000",
+            "status": "active"
+        },
+        {
+            "id": 2821,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa_save&url=https%3A%2F%2Fwww.sbicard.com%2Fsprint%2Fc%2FsimplySave&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/423347/sbi-card-logo.png",
+            "merchant": "SBI Credit Card(Simply Save) ",
+            "category": "Banking & Finance",
+            "type": "cpa_save",
+            "payout": "₹2400",
+            "status": "active"
+        },
+        {
+            "id": 2826,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Ftwobrothersindiashop.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/425863/Two-Brothers-logo.png",
+            "merchant": "Two Brothers",
+            "category": "Food & Grocery",
+            "type": "cps",
+            "payout": "18%",
+            "status": "inactive"
+        },
+        {
+            "id": 2834,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.victoriassecret.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/428788/victorias-secret-beauty-logo.png",
+            "merchant": "Victoria Secret",
+            "category": "Fashion,Health & Beauty",
+            "type": "cps",
+            "payout": "4%",
+            "status": "active"
+        },
+        {
+            "id": 2842,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.bonkerscorner.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/429349/Bonkers-Corner-logo.png",
+            "merchant": "BONKERS CORNER",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "6%",
+            "status": "active"
+        },
+        {
+            "id": 2870,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.snitch.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/433097/SNITCH-logo.png",
+            "merchant": "Snitch",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "6.80%",
+            "status": "active"
+        },
+        {
+            "id": 2874,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl_lead&url=https%3A%2F%2Fwww.bajajfinserv.in%2Fcheck-free-cibil-score&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/435584/images.png",
+            "merchant": "Bajaj Cibil Score",
+            "category": "Banking & Finance",
+            "type": "cpl_lead",
+            "payout": "₹22",
+            "status": "inactive"
+        },
+        {
+            "id": 2883,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.beatxp.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/440032/images.png",
+            "merchant": "Beatxp",
+            "category": "Electronics,Health & Beauty,Sports & Fitness",
+            "type": "cps",
+            "payout": "7%",
+            "status": "inactive"
+        },
+        {
+            "id": 2884,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fkrishnaayurved.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/440095/krishna-herbal-ayurveda-logo.png",
+            "merchant": "Krishna's Herbal & Ayurveda",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "10%",
+            "status": "active"
+        },
+        {
+            "id": 2885,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.shopsy.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/440612/ShopsyLite-205d58.png",
+            "merchant": "Shopsy",
+            "category": "Baby & Kids,Electronics,Gifting & Toys,Health & Beauty,Fashion",
+            "type": "cps",
+            "payout": "10.2%",
+            "status": "active"
+        },
+        {
+            "id": 2886,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.beyours.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/442654/Beyours_logo.png",
+            "merchant": "Beyours",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "12.75%",
+            "status": "inactive"
+        },
+        {
+            "id": 2890,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.soulfull.co.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/443039/Tata-Soulfull_logo.png",
+            "merchant": "Soulfull",
+            "category": "Food & Grocery",
+            "type": "cps",
+            "payout": "25.5%",
+            "status": "inactive"
+        },
+        {
+            "id": 2892,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fbummer.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/443259/Bummer--logo.png",
+            "merchant": "Bummer",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "18%",
+            "status": "active"
+        },
+        {
+            "id": 2893,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fapply.scapia.cards%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/443269/scapia.cards_logo.png",
+            "merchant": "Scapia Credit Card",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹950",
+            "status": "active"
+        },
+        {
+            "id": 2899,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fbeepkart.com%2Fsell-used-bikes%2Fbangalore%2Feng&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/445812/beepkart_logo.png",
+            "merchant": "Beepkart (Sell)",
+            "category": "Automobiles",
+            "type": "cpa",
+            "payout": "₹350",
+            "status": "inactive"
+        },
+        {
+            "id": 2909,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fmysleepwell.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/450466/sleepwell_logo.png",
+            "merchant": "Sleepwell",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "12%",
+            "status": "active"
+        },
+        {
+            "id": 2910,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.campusshoes.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/450479/Campus-Shoes_logo.png",
+            "merchant": "Campus Shoes",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "15%",
+            "status": "active"
+        },
+        {
+            "id": 2919,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.9shineslabel.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/454945/9shines-label_logo.png",
+            "merchant": "9ShineLabel",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "45%",
+            "status": "active"
+        },
+        {
+            "id": 2925,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fhdfcsky.com%2Fsem&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/458323/s.jpg",
+            "merchant": "HDFC Sky",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹650",
+            "status": "inactive"
+        },
+        {
+            "id": 2926,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.guvi.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/458963/GUVI_logo.png",
+            "merchant": "HCL Guvi",
+            "category": "Education",
+            "type": "cps",
+            "payout": "10.5%",
+            "status": "active"
+        },
+        {
+            "id": 2930,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.airindiaexpress.com%2Fhome&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/459751/download---2023-11-27T140730.126.png",
+            "merchant": "Air India Express",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "₹120",
+            "status": "active"
+        },
+        {
+            "id": 2931,
+            "url": "https://inr.deals/track?src=stores-api&campaign=internationl_hotel&url=https%3A%2F%2Fwww.makemytrip.com%2Fhotels-international%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/459973/make-my-trip-logo.png",
+            "merchant": "Makemytrip (Int Hotels)",
+            "category": "Travel",
+            "type": "internationl_hotel",
+            "payout": "₹250",
+            "status": "active"
+        },
+        {
+            "id": 2940,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.adotrip.com%2Fflight&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/463956/Adotrip_logo.png",
+            "merchant": "Adotrip Flights",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "₹300",
+            "status": "active"
+        },
+        {
+            "id": 2941,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.acko.com%2Fp%2Fhealth%2FsemBuyV3&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/515016/output-onlinepngtools.png",
+            "merchant": "Acko Health Insurance",
+            "category": "Online Services",
+            "type": "cpa",
+            "payout": "₹8000",
+            "status": "inactive"
+        },
+        {
+            "id": 2943,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fmyborosil.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/465364/borosil-logo.png",
+            "merchant": "Borosil",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "18%",
+            "status": "active"
+        },
+        {
+            "id": 2950,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fshoptupperware.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/468750/shoptupperware_logo.png",
+            "merchant": "Tupperware",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "5.95%",
+            "status": "inactive"
+        },
+        {
+            "id": 2956,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fsalty.co.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/473686/salty_logo.png",
+            "merchant": "Salty",
+            "category": "Jewelery",
+            "type": "cps",
+            "payout": "13.50%",
+            "status": "active"
+        },
+        {
+            "id": 2960,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fkapps.kotak.com%2FkotakXpress%2Fxpress%2Fxpress-home.action&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/475794/images-%282%29.png",
+            "merchant": "Kotak Express",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹1100",
+            "status": "inactive"
+        },
+        {
+            "id": 2961,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps_train&url=https%3A%2F%2Fwww.adanione.com%2Ftrains&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/475923/Adani-One-Alpha-Gradient.png",
+            "merchant": "Adani Train",
+            "category": "Travel",
+            "type": "cps_train",
+            "payout": "₹40",
+            "status": "inactive"
+        },
+        {
+            "id": 2968,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fprotouchskin.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/479325/protouch_logo.png",
+            "merchant": "Protouch",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "13%",
+            "status": "active"
+        },
+        {
+            "id": 2969,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.adilqadri.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/479378/Adilqadri_logo.png",
+            "merchant": "Adil Qadri",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "17%",
+            "status": "inactive"
+        },
+        {
+            "id": 2975,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fthebearhouse.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/481097/bearhouseindia_logo.png",
+            "merchant": "BearHouse",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "14.5%",
+            "status": "active"
+        },
+        {
+            "id": 2978,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.carinfo.app%2Fservice-history&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/481400/carinfo-logo.png",
+            "merchant": "CarInfo",
+            "category": "Automobiles",
+            "type": "cps",
+            "payout": "100",
+            "status": "active"
+        },
+        {
+            "id": 2979,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.paytmmoney.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/481843/Paytm_Money_Logo.png",
+            "merchant": "Paytm Money (CPA)",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹650",
+            "status": "inactive"
+        },
+        {
+            "id": 2980,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fappsumo.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/481861/APP-SUMO_Logo-%281%29.png",
+            "merchant": "AppSumo",
+            "category": "Online Services",
+            "type": "cps",
+            "payout": "80%",
+            "status": "active"
+        },
+        {
+            "id": 2989,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.masterclassspace.com%2Fbitsat.php&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/486796/Masterclass-space-BITSAT-logo.png",
+            "merchant": "Masterclass space BITSAT",
+            "category": "Education",
+            "type": "cps",
+            "payout": "50%",
+            "status": "active"
+        },
+        {
+            "id": 2991,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fyesrapido.yesbank.in%2Fsdcss%2Fd%2Fretail-banking%2Faccount-opening%2Fsavings&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/488619/images.png",
+            "merchant": "Yes Bank Saving",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹300",
+            "status": "inactive"
+        },
+        {
+            "id": 2992,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Finterio.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/489129/interio_logo.png",
+            "merchant": "Godrej Interio",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "5%",
+            "status": "active"
+        },
+        {
+            "id": 2993,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa_cb&url=https%3A%2F%2Fwww.sbicard.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/490715/sbi-card-logo.png",
+            "merchant": "SBI Cashback",
+            "category": "Banking & Finance",
+            "type": "cpa_cb",
+            "payout": "₹2300",
+            "status": "active"
+        },
+        {
+            "id": 2996,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.watchoutwearables.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/492072/watchout_logo.png",
+            "merchant": "Watchout Wearables",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "12%",
+            "status": "active"
+        },
+        {
+            "id": 3001,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fquillbot.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/492915/Untitled-design-%2871%29.png",
+            "merchant": "Quillbot",
+            "category": "Others",
+            "type": "cps",
+            "payout": "17.5%",
+            "status": "active"
+        },
+        {
+            "id": 3004,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fmokobara.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/494868/Untitled-design-%2877%29.png",
+            "merchant": "Mokobara",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "8.5%",
+            "status": "active"
+        },
+        {
+            "id": 3011,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fbeardo.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/497670/beardo--400x200-png.png",
+            "merchant": "Beardo",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "17%",
+            "status": "active"
+        },
+        {
+            "id": 3018,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fdigital.idfcfirstbank.com%2Fapply%2Fsavings&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/500333/images.jpeg",
+            "merchant": "IDFC SA",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹450",
+            "status": "inactive"
+        },
+        {
+            "id": 3020,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.viagogo.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/500679/viagogo-logo.png",
+            "merchant": "Viagogo",
+            "category": "Entertainment",
+            "type": "cps",
+            "payout": "5.95%",
+            "status": "active"
+        },
+        {
+            "id": 3021,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.indusind.com%2Fin%2Fen%2Fpersonal%2Faccounts%2Fsaving-account.html&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/500698/d.png",
+            "merchant": "Indie By Indusind Bank App",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹600",
+            "status": "inactive"
+        },
+        {
+            "id": 3023,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.tide.co%2Fen-IN%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/501266/images.png",
+            "merchant": "Tide App",
+            "category": "Online Services",
+            "type": "cpa",
+            "payout": "₹380",
+            "status": "active"
+        },
+        {
+            "id": 3027,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fdenverformen.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/501277/Denverformen-_logo.png",
+            "merchant": "Denver",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "25%",
+            "status": "inactive"
+        },
+        {
+            "id": 3028,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fapplyonline.hdfcbank.com%2Fcards%2Fcredit-cards.html&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/501278/hdfc_bank.png",
+            "merchant": "Hdfc Tata Neu CC",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹200",
+            "status": "active"
+        },
+        {
+            "id": 3029,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.accountopening.hsbc.co.in%2Fcredit-cards%2F%23%21%2Fapp%2Fjourney%2Fcontact-details-VPC&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/501285/HSBC-Logo.png",
+            "merchant": "HSBC Credit Card",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹2800",
+            "status": "inactive"
+        },
+        {
+            "id": 3031,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.pelago.co%2Fen-IN%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/501978/pelago_logo.png",
+            "merchant": "Pelago",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "8.5%",
+            "status": "active"
+        },
+        {
+            "id": 3036,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps_emami&url=https%3A%2F%2Fzanducare.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/503109/Zanducare-logo.png",
+            "merchant": "Emami Zanducare",
+            "category": "Health & Beauty",
+            "type": "cps_emami",
+            "payout": "23.11%",
+            "status": "active"
+        },
+        {
+            "id": 3037,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.livabybirlacellulose.com%2Fconsumer%2Fbuy-liva&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/503110/livabybirlacellulose-_logo.png",
+            "merchant": "Liva",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "5%",
+            "status": "active"
+        },
+        {
+            "id": 3041,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.axisbank.com%2Fsavings-account%2Fdigital-savings-account.html&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/503265/axis.png",
+            "merchant": "Axis Bank Saving Account",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹500",
+            "status": "inactive"
+        },
+        {
+            "id": 3057,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.royalsundaram.in%2Fcar-insurance&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/505719/rs-new-logo.png",
+            "merchant": "Royal Sundaram Insurance",
+            "category": "Online Services",
+            "type": "cps",
+            "payout": "55%",
+            "status": "inactive"
+        },
+        {
+            "id": 3060,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl_lead&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.adityabirlacapitaldigital.OneApp&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/506227/abcd_logo.--2-png...png",
+            "merchant": "ABCD Gold App ",
+            "category": "Banking & Finance",
+            "type": "cpl_lead",
+            "payout": "₹60",
+            "status": "active"
+        },
+        {
+            "id": 3065,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fkurlon.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/507000/kurlon_logo.png",
+            "merchant": "Kurlon",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "20%",
+            "status": "active"
+        },
+        {
+            "id": 3068,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.adityabirlacapital.com%2Fabcd&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/507395/aa.png",
+            "merchant": "ABCD credit score",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹25",
+            "status": "inactive"
+        },
+        {
+            "id": 3070,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Forpatgroup.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/507471/Untitled_orpat.png",
+            "merchant": "ORPAT",
+            "category": "Electronics,Home & Kitchen",
+            "type": "cps",
+            "payout": "12%",
+            "status": "active"
+        },
+        {
+            "id": 3081,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.lastpass.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/509791/lastpass_logo.png",
+            "merchant": "Lastpass",
+            "category": "Software",
+            "type": "cps",
+            "payout": "21.25%",
+            "status": "active"
+        },
+        {
+            "id": 3083,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fmymuse.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/510003/my-muse_logo.png",
+            "merchant": "My Muse",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "13.5%",
+            "status": "active"
+        },
+        {
+            "id": 3089,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fredcliffelabs.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/510264/undefined---Imgur.png",
+            "merchant": "Redcliffe Labs",
+            "category": "Medical & Healthcare",
+            "type": "cps",
+            "payout": "10%",
+            "status": "active"
+        },
+        {
+            "id": 3099,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.avon.co.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/512004/avon_logo.png",
+            "merchant": "Avon",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "22%",
+            "status": "active"
+        },
+        {
+            "id": 3100,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.voyageeyewear.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/511328/logo.png",
+            "merchant": "Voyage Eyewear",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "25%",
+            "status": "active"
+        },
+        {
+            "id": 3101,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.getyourguide.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/511415/get-your-guide.png",
+            "merchant": "GetyourGuide",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "8%",
+            "status": "active"
+        },
+        {
+            "id": 3108,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.shriramfinance.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/511877/s.png",
+            "merchant": "Shriram Finance",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "4.0%",
+            "status": "inactive"
+        },
+        {
+            "id": 3110,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.angelone.in%2Fregister%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/511955/logo.png",
+            "merchant": "Angel One App",
+            "category": "Banking & Finance",
+            "type": "cpl",
+            "payout": "₹360",
+            "status": "inactive"
+        },
+        {
+            "id": 3119,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Floan.credittnow.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/513474/aa.jpeg",
+            "merchant": "Creditt+",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹1200",
+            "status": "inactive"
+        },
+        {
+            "id": 3124,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpr&url=https%3A%2F%2Fmyflot.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/513829/OIP.jpeg",
+            "merchant": "Flot",
+            "category": "Banking & Finance",
+            "type": "cpr",
+            "payout": "₹25",
+            "status": "active"
+        },
+        {
+            "id": 3127,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fgeeklane.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/514795/geeklane_logo.png",
+            "merchant": "Geeklane",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "23%",
+            "status": "active"
+        },
+        {
+            "id": 3130,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fsecretalchemist.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/514792/Secret-Alchemist-_logo.png",
+            "merchant": "Secret Alchemist",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "10%",
+            "status": "inactive"
+        },
+        {
+            "id": 3138,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fstockedge.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/516122/download.jpeg",
+            "merchant": "StockEdge ",
+            "category": "Banking & Finance",
+            "type": "cps",
+            "payout": "21%",
+            "status": "active"
+        },
+        {
+            "id": 3141,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.signnow.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/516509/signnow-logo.png",
+            "merchant": "SignNow",
+            "category": "Others",
+            "type": "cps",
+            "payout": "₹56000",
+            "status": "active"
+        },
+        {
+            "id": 3146,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.nilkamalsleep.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/516939/Nilkamal-Sleep-_logo.png",
+            "merchant": "Nilkamal Sleep",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "16.98%%",
+            "status": "inactive"
+        },
+        {
+            "id": 3148,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.expressvpn.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/517667/express-vpn-_logo.png",
+            "merchant": "ExpressVPN",
+            "category": "Others",
+            "type": "cps",
+            "payout": "₹2656.06",
+            "status": "active"
+        },
+        {
+            "id": 3149,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fserverbyt.in%2Foffers&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/518166/Logo-300x86-copy.png",
+            "merchant": "ServerByt",
+            "category": "Domain & Hosting",
+            "type": "cps",
+            "payout": "25%",
+            "status": "active"
+        },
+        {
+            "id": 3150,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.palmonas.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/519925/palmons_logo.png",
+            "merchant": "Palmonas",
+            "category": "Jewelery",
+            "type": "cps",
+            "payout": "12.75%",
+            "status": "active"
+        },
+        {
+            "id": 3153,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fcloveoralcare.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/518719/clove-logo.png",
+            "merchant": "Cloveoralcare",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "52.5%",
+            "status": "active"
+        },
+        {
+            "id": 3154,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.bigmusclesnutrition.com%2F%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/518885/BigMuscles-Nutrition_logo.png",
+            "merchant": "BigMuscle Nutrition",
+            "category": "Sports & Fitness",
+            "type": "cps",
+            "payout": "4%",
+            "status": "active"
+        },
+        {
+            "id": 3163,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fgoeye.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/519974/go-eye_logo.png",
+            "merchant": "GoEYE",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "15%",
+            "status": "active"
+        },
+        {
+            "id": 3165,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpr_app&url=https%3A%2F%2Fcreditreport.paisabazaar.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/520564/Paisabazaar-1.jpg",
+            "merchant": "Paisabazaar PL {App} CPR",
+            "category": "Banking & Finance",
+            "type": "cpr_app",
+            "payout": "₹80",
+            "status": "inactive"
+        },
+        {
+            "id": 3166,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.flixbus.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/522183/flixbus_logo.png",
+            "merchant": "FLiXBus",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "₹18",
+            "status": "active"
+        },
+        {
+            "id": 3168,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fkukufm.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/521163/kk.jpg",
+            "merchant": "Kuku FM",
+            "category": "Entertainment",
+            "type": "cps",
+            "payout": "₹50",
+            "status": "inactive"
+        },
+        {
+            "id": 3170,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fuppercase.co.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/521499/logo.png",
+            "merchant": "Uppercase",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "22%",
+            "status": "active"
+        },
+        {
+            "id": 3171,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fbluetea.co.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/521564/logo.png",
+            "merchant": "Blue Tea",
+            "category": "Food & Grocery",
+            "type": "cps",
+            "payout": "13.5%",
+            "status": "active"
+        },
+        {
+            "id": 3173,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Floopearplugs.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/522053/logo.png",
+            "merchant": "Loopearplugs",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "17.5%",
+            "status": "active"
+        },
+        {
+            "id": 3176,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fredrails.app.link&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/522580/red-rail_logo.png",
+            "merchant": "Redrail",
+            "category": "Travel",
+            "type": "cps",
+            "payout": "₹63",
+            "status": "active"
+        },
+        {
+            "id": 3178,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.mydesignation.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/522878/logo-%281%29.png",
+            "merchant": "MyDesignation",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "20%",
+            "status": "inactive"
+        },
+        {
+            "id": 3179,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Festuaryworld.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/522882/Estuary-_logo.png",
+            "merchant": "ESTUARY WORLD",
+            "category": "Food & Grocery",
+            "type": "cps",
+            "payout": "59.4%",
+            "status": "active"
+        },
+        {
+            "id": 3181,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fadmission.mahindrauniversity.edu.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/523431/mahindra-detail_1.jpg",
+            "merchant": "Mahindra University OTP Lead",
+            "category": "Education",
+            "type": "cpl",
+            "payout": "₹15",
+            "status": "inactive"
+        },
+        {
+            "id": 3182,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.instax.in%2Fcollections%2Fshop-all&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/523462/logo.png",
+            "merchant": "Instax",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "15%",
+            "status": "active"
+        },
+        {
+            "id": 3184,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fdcyphr.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/523979/DCYPHR_LOGO.png",
+            "merchant": "DCYPHR",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "30%",
+            "status": "active"
+        },
+        {
+            "id": 3186,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fultahost.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/524047/UltaHost_logo.png",
+            "merchant": "UltaHost",
+            "category": "Domain & Hosting",
+            "type": "cps",
+            "payout": "48%",
+            "status": "inactive"
+        },
+        {
+            "id": 3190,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Ffytika.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/526929/fytika-logo.png",
+            "merchant": "Fytika",
+            "category": "Health & Beauty,Medical & Healthcare",
+            "type": "cps",
+            "payout": "35%",
+            "status": "active"
+        },
+        {
+            "id": 3196,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fhausandkinder.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/531343/haus-logo.png",
+            "merchant": "Haus & Kinder",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "10.2%",
+            "status": "inactive"
+        },
+        {
+            "id": 3199,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwellversed.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/531816/Wellversed-logo.png",
+            "merchant": "wellversed",
+            "category": "Medical & Healthcare",
+            "type": "cps",
+            "payout": "7%",
+            "status": "active"
+        },
+        {
+            "id": 3200,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fbeautywise.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/531979/beautywise-logo.png",
+            "merchant": "Beautywise",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "26%",
+            "status": "active"
+        },
+        {
+            "id": 3203,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Flottosport.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/532939/logo.png",
+            "merchant": "Lotto Sport",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "8%",
+            "status": "active"
+        },
+        {
+            "id": 3204,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.mivi.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/533086/logo..png",
+            "merchant": "mivi",
+            "category": "Electronics",
+            "type": "cps",
+            "payout": "9%",
+            "status": "active"
+        },
+        {
+            "id": 3205,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.shyaway.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/533152/logo.png",
+            "merchant": "shyaway",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "34%",
+            "status": "active"
+        },
+        {
+            "id": 3206,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpr&url=https%3A%2F%2Flending.kredbharat.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/533878/logo.png",
+            "merchant": "KredBharat",
+            "category": "Banking & Finance",
+            "type": "cpr",
+            "payout": "₹20",
+            "status": "active"
+        },
+        {
+            "id": 3209,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fbookscape.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/534162/books-scape.png",
+            "merchant": "Bookscape",
+            "category": "Books",
+            "type": "cps",
+            "payout": "28%",
+            "status": "active"
+        },
+        {
+            "id": 3210,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.buyindusvalley.in&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/534365/indus-valley-logo.png",
+            "merchant": "Buy Indus Valley",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "40%",
+            "status": "active"
+        },
+        {
+            "id": 3212,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fpurenutrition.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/534799/pure-nutrition-logo-01.png",
+            "merchant": "Pure Nutrition",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "21%",
+            "status": "active"
+        },
+        {
+            "id": 3213,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fruheindia.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/534852/ruhe-logo-01.png",
+            "merchant": "Ruhe India",
+            "category": "Home & Kitchen",
+            "type": "cps",
+            "payout": "10.5%",
+            "status": "active"
+        },
+        {
+            "id": 3214,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Faramya.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/534924/aramya-logo-01.png",
+            "merchant": "Aramya",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "11.4%",
+            "status": "active"
+        },
+        {
+            "id": 3215,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fin.ajmal.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/535086/ajmal-logo.png",
+            "merchant": "Ajmal Perfume",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "4.25%",
+            "status": "active"
+        },
+        {
+            "id": 3217,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl&url=https%3A%2F%2Fwww.smallcase.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/535276/OIP.webp",
+            "merchant": "Smallcase",
+            "category": "Banking & Finance,Online Services",
+            "type": "cpl",
+            "payout": "₹800",
+            "status": "inactive"
+        },
+        {
+            "id": 3218,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fmycosiq.com%2F%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/535943/cosiq-logo.png",
+            "merchant": "CosIQ",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "12%",
+            "status": "active"
+        },
+        {
+            "id": 3219,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpl_lead&url=https%3A%2F%2Fwww.bajajallianz.com%2Fmotor-insurance%2Fcar-insurance-online%2Fbuy-online.html%3F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/536035/b.png",
+            "merchant": "Bajaj Motor Insurance",
+            "category": "Automobiles",
+            "type": "cpl_lead",
+            "payout": "75%",
+            "status": "inactive"
+        },
+        {
+            "id": 3220,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fneeshperfumes.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/536066/logo.png",
+            "merchant": "Neesh Perfumes",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "42%",
+            "status": "active"
+        },
+        {
+            "id": 3222,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Falpino.store%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/536149/logo.png",
+            "merchant": "Alpino",
+            "category": "Food & Grocery",
+            "type": "cps",
+            "payout": "4.5%",
+            "status": "active"
+        },
+        {
+            "id": 3224,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.gharsoaps.shop%2Fcollections%2Fbest-seller&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/536369/logo.png",
+            "merchant": "Gharsoaps",
+            "category": "Health & Beauty",
+            "type": "cps",
+            "payout": "15%",
+            "status": "active"
+        },
+        {
+            "id": 3225,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fwww.fuelone.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/537124/logo.png",
+            "merchant": "Fuel One",
+            "category": "Sports & Fitness",
+            "type": "cps",
+            "payout": "3.6%",
+            "status": "active"
+        },
+        {
+            "id": 3226,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fourlittlejoys.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/538506/logo.png",
+            "merchant": "Little Joys",
+            "category": "Food & Grocery,Health & Beauty",
+            "type": "cps",
+            "payout": "28%",
+            "status": "active"
+        },
+        {
+            "id": 3227,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Frangdeep.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/538995/logo-%282%29.png",
+            "merchant": "Rangdeep",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "40%",
+            "status": "active"
+        },
+        {
+            "id": 3228,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Ftruloom.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/539005/logo-%283%29.png",
+            "merchant": "Truloom",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "40%",
+            "status": "active"
+        },
+        {
+            "id": 3234,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fkisah.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/540529/logo.png",
+            "merchant": "Kisah",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "8%",
+            "status": "active"
+        },
+        {
+            "id": 3235,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fspankersindia.com%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/541187/logo-%284%29.png",
+            "merchant": "Spankers",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "9%",
+            "status": "active"
+        },
+        {
+            "id": 3236,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fklydo.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/541317/logo-%285%29.png",
+            "merchant": "Klydo",
+            "category": "Fashion",
+            "type": "cps",
+            "payout": "₹700",
+            "status": "active"
+        },
+        {
+            "id": 3237,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cpa&url=https%3A%2F%2Fwww.kotak811.com&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/542580/kotak-logo400x200.png",
+            "merchant": "Kotak 811 Super Account",
+            "category": "Banking & Finance",
+            "type": "cpa",
+            "payout": "₹1200",
+            "status": "active"
+        },
+        {
+            "id": 3238,
+            "url": "https://inr.deals/track?src=stores-api&campaign=cps&url=https%3A%2F%2Fkimti.in%2F&id=all665437315&subid=",
+            "logo": "https://inrdeals.sgp1.cdn.digitaloceanspaces.com/production/543188/download-%2819%29.png",
+            "merchant": "Kimti",
+            "category": "Jewelery",
+            "type": "cps",
+            "payout": "15%",
+            "status": "active"
+        }
+    ]
+}
