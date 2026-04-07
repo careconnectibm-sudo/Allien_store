@@ -9,16 +9,6 @@
     "test": "ng test",
     "serve:ssr:allien-store": "node dist/allien-store/server/server.mjs"
   },
-  "prettier": {
-    "overrides": [
-      {
-        "files": "*.html",
-        "options": {
-          "parser": "angular"
-        }
-      }
-    ]
-  },
   "private": true,
   "dependencies": {
     "@angular/common": "20.1.8",
@@ -37,7 +27,7 @@
   "devDependencies": {
     "@angular/build": "20.1.6",
     "@angular/cli": "20.1.6",
-    "@angular/compiler-cli": "^20.1.0",
+    "@angular/compiler-cli": "20.1.8",  
     "@netlify/angular-runtime": "^3.0.1",
     "@tailwindcss/postcss": "^4.2.2",
     "@types/express": "^5.0.1",
