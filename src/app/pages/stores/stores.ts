@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule, KeyValuePipe } from '@angular/common';
 import { StoreService } from '../../services/store.service';
+import { SeoService } from '../../services/seo.service';
 import { Store, CATEGORIES } from '../../models/store.model';
 import { StoreCard } from '../../components/stores/store-card/store-card';
 import { FormsModule } from '@angular/forms';
@@ -74,7 +75,7 @@ import { FormsModule } from '@angular/forms';
         <!-- Stores Grid -->
         <div class="lg:col-span-3">
           @if (filteredStores.length > 0) {
-            <div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6">
+            <div class="grid grid-cols-2 sm:grid-cols-2 xl:grid-cols-3 gap-4 md:gap-6">
               @for (store of filteredStores; track store.id) {
                 <app-store-card [store]="store"></app-store-card>
               }
@@ -110,9 +111,17 @@ export class Stores implements OnInit {
   selectedCategory = '';
   selectedType = '';
 
-  constructor(private storeService: StoreService) {}
+  constructor(
+    private storeService: StoreService,
+    private seoService: SeoService
+  ) {}
 
   ngOnInit() {
+    this.seoService.updateTitle('Browse Stores');
+    this.seoService.updateMetaTags({
+      description: 'Discover all your favorite stores at AllienStore. Get exclusive coupons and cashback from 245+ top Indian brands.'
+    });
+
     this.storeService.getStores().subscribe(stores => {
       this.allStores = stores;
       this.filteredStores = stores;

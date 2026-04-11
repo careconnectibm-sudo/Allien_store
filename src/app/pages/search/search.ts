@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { CommonModule } from '@angular/common';
 import { StoreService } from '../../services/store.service';
+import { SeoService } from '../../services/seo.service';
 import { Store, Coupon } from '../../models/store.model';
 import { StoreCard } from '../../components/stores/store-card/store-card';
 import { CouponCard } from '../../components/coupons/coupon-card/coupon-card';
@@ -26,7 +27,7 @@ import { CouponCard } from '../../components/coupons/coupon-card/coupon-card';
             </h2>
           </div>
           @if (matchingStores.length > 0) {
-            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div class="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
               @for (store of matchingStores; track store.id) {
                 <app-store-card [store]="store"></app-store-card>
               }
@@ -83,12 +84,19 @@ export class Search implements OnInit {
 
   constructor(
     private route: ActivatedRoute,
-    private storeService: StoreService
+    private storeService: StoreService,
+    private seoService: SeoService
   ) {}
 
   ngOnInit() {
     this.route.queryParams.subscribe(params => {
       this.query = params['q'] || '';
+      
+      this.seoService.updateTitle(`Search results for "${this.query}"`);
+      this.seoService.updateMetaTags({
+        description: `Find the best deals and coupons for "${this.query}" at AllienStore.`
+      });
+
       if (this.query) {
         this.performSearch();
       }

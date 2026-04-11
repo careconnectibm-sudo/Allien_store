@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { CommonModule, KeyValuePipe } from '@angular/common';
 import { StoreService } from '../../services/store.service';
+import { SeoService } from '../../services/seo.service';
 import { Store, CATEGORIES } from '../../models/store.model';
 import { StoreCard } from '../../components/stores/store-card/store-card';
 import { SearchBar } from '../../components/ui/search-bar/search-bar';
@@ -83,7 +84,7 @@ import { SearchBar } from '../../components/ui/search-bar/search-bar';
       <!-- Featured Stores -->
       <section class="container mx-auto px-4 py-8">
         <h2 class="text-3xl font-heading font-bold text-brand-slate-dark mb-8">Featured <span class="text-brand-blue">Stores</span></h2>
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+        <div class="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
           @for (store of featuredStores; track store.id) {
             <app-store-card [store]="store"></app-store-card>
           }
@@ -128,9 +129,17 @@ export class Home implements OnInit {
   categories = CATEGORIES;
   featuredStores: Store[] = [];
 
-  constructor(private storeService: StoreService) {}
+  constructor(
+    private storeService: StoreService,
+    private seoService: SeoService
+  ) {}
 
   ngOnInit() {
+    this.seoService.updateTitle();
+    this.seoService.updateMetaTags({
+      description: 'Get the latest coupons, exclusive deals, and up to 36% cashback from 245+ top Indian brands at AllienStore.'
+    });
+
     this.storeService.getStores().subscribe(stores => {
       // Show top 8 stores on home
       this.featuredStores = stores.slice(0, 8);

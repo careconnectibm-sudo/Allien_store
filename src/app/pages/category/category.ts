@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, RouterLink } from '@angular/router';
 import { CommonModule } from '@angular/common';
 import { StoreService } from '../../services/store.service';
+import { SeoService } from '../../services/seo.service';
 import { Store, CATEGORIES } from '../../models/store.model';
 import { StoreCard } from '../../components/stores/store-card/store-card';
 
@@ -27,7 +28,7 @@ import { StoreCard } from '../../components/stores/store-card/store-card';
       <!-- Stores Grid -->
       <section class="container mx-auto px-4 py-12">
         @if (stores.length > 0) {
-          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div class="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
             @for (store of stores; track store.id) {
               <app-store-card [store]="store"></app-store-card>
             }
@@ -53,13 +54,20 @@ export class Category implements OnInit {
 
   constructor(
     private route: ActivatedRoute,
-    private storeService: StoreService
+    private storeService: StoreService,
+    private seoService: SeoService
   ) {}
 
   ngOnInit() {
     this.route.params.subscribe(params => {
       this.categoryName = params['cat'];
       this.currentCategoryIcon = CATEGORIES[this.categoryName]?.icon || '🏷️';
+      
+      this.seoService.updateTitle(`Best ${this.categoryName} Coupons`);
+      this.seoService.updateMetaTags({
+        description: `Get the best deals and exclusive offers from verified stores in the ${this.categoryName} category at AllienStore.`
+      });
+
       this.loadCategoryStores();
     });
   }
